@@ -1319,3 +1319,385 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.22-12.34.26:858][223]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2024.10.22-12.34.27:267][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
 [2024.10.22-12.34.27:267][245]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-12.37.48:526][258]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.22-12.37.52:774][675]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.22-12.37.52:798][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.22-12.37.53:236][675]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2024.10.22-12.37.54:927][675]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.22-12.37.56:665][776]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2024.10.22-12.37.57:774][880]LogSlate: Took 0.018186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.22-12.38.17:014][192]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.10.22-12.38.17:063][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.10.22-12.38.18:596][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.10.22-12.38.18:663][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.22-12.38.18:684][330]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonExampleMapB7135F8D4137241DCBA12C977580876C.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.10.22-12.38.18:690][330]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.054
+[2024.10.22-12.38.18:756][330]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonCharacter46DE9D334A3EDF765B88818B6D3C8CB6.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.10.22-12.38.18:778][330]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-12.38.18:778][330]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.22-12.38.18:778][330]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.10.22-12.38.27:115][ 87]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.10.22-12.38.27:163][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.10.22-12.38.28:793][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.10.22-12.38.28:851][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.22-12.38.28:870][242]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonExampleMapDB8F7F4C44876BAE795F95B43B6839BF.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.10.22-12.38.28:874][242]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.044
+[2024.10.22-12.38.28:904][242]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonCharacter17E0F15E40CA6793EEAAB49231213C21.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.10.22-12.38.28:921][242]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-12.38.28:921][242]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.22-12.38.28:921][242]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.10.22-12.38.49:765][764]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.10.22-12.38.49:811][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.10.22-12.38.51:392][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.10.22-12.38.51:434][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.22-12.38.51:454][917]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonExampleMap632DB59C43439D1C720F3BB6321460D6.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.10.22-12.38.51:458][917]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.045
+[2024.10.22-12.38.51:490][917]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/ThirdPersonCharacter6DA88D9843F351433C1A15A97C2C2EDC.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.10.22-12.38.51:509][917]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-12.38.51:509][917]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.22-12.38.51:510][917]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.10.22-12.38.57:556][138]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-12.38.57:562][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-12.38.57:562][138]PIE: New page: PIE session: ThirdPersonExampleMap (22 окт. 2024 г., 18:38:57)
+[2024.10.22-12.38.57:591][138]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.10.22-12.38.57:603][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011319s)
+[2024.10.22-12.38.57:604][138]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.10.22-12.38.57:605][138]LogPlayLevel: PIE: World Init took: (0.002019s)
+[2024.10.22-12.38.57:605][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013597s)
+[2024.10.22-12.38.57:641][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.10.22-12.38.57:643][138]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-12.38.57:643][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-12.38.57:643][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-12.38.57:644][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-12.38.57:644][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-12.38.57:644][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-12.38.57:644][138]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-12.38.57:649][138]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-12.38.57:649][138]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-12.38.57:656][138]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.10.22-12.38.57:656][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-12.38.57:656][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-12.38.57:656][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-12.38.57:657][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-12.38.57:657][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-12.38.57:657][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-12.38.57:658][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-12.38.57:658][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-12.38.57:658][138]LogInit: FAudioDevice initialized.
+[2024.10.22-12.38.57:658][138]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2024.10.22-12.38.57:671][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.10.22-12.38.57:673][138]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.10.22-15.38.57
+[2024.10.22-12.38.57:673][138]LogWorld: Bringing up level for play took: 0.001085
+[2024.10.22-12.38.57:674][138]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.10.22-12.38.57:676][138]PIE: Server logged in
+[2024.10.22-12.38.57:677][138]PIE: Play in editor total start time 0,117 seconds.
+[2024.10.22-12.39.01:793][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-12.39.01:793][617]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.10.22-12.39.01:793][617]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-12.39.01:793][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-12.39.01:804][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-12.39.01:807][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-12.39.01:826][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.22-12.39.01:826][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-12.39.01:827][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-12.39.01:830][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-12.39.01:832][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.10.22-12.39.01:875][619]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.22-12.39.31:642][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.10.22-12.39.49:740][695]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.22-12.39.49:746][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.22-12.39.49:746][695]PIE: New page: PIE session: ThirdPersonExampleMap (22 окт. 2024 г., 18:39:49)
+[2024.10.22-12.39.49:772][695]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.10.22-12.39.49:783][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010453s)
+[2024.10.22-12.39.49:784][695]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.10.22-12.39.49:785][695]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2024.10.22-12.39.49:785][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012948s)
+[2024.10.22-12.39.49:820][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.10.22-12.39.49:821][695]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.22-12.39.49:821][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.22-12.39.49:821][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.22-12.39.49:822][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.22-12.39.49:822][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.22-12.39.49:822][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.22-12.39.49:822][695]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.22-12.39.49:830][695]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.22-12.39.49:830][695]LogAudioMixer: Display: 1: FrontRight
+[2024.10.22-12.39.49:838][695]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.10.22-12.39.49:838][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.22-12.39.49:838][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.22-12.39.49:838][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.22-12.39.49:838][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.22-12.39.49:839][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.22-12.39.49:839][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.22-12.39.49:840][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.22-12.39.49:840][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.22-12.39.49:840][695]LogInit: FAudioDevice initialized.
+[2024.10.22-12.39.49:840][695]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2024.10.22-12.39.49:849][695]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.10.22-12.39.49:851][695]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.10.22-15.39.49
+[2024.10.22-12.39.49:852][695]LogWorld: Bringing up level for play took: 0.001739
+[2024.10.22-12.39.49:852][695]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.10.22-12.39.49:883][695]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.10.22-12.39.49:883][695]PIE: Server logged in
+[2024.10.22-12.39.49:883][695]PIE: Play in editor total start time 0,138 seconds.
+[2024.10.22-12.40.04:343][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-12.40.04:343][373]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.10.22-12.40.04:343][373]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-12.40.04:343][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-12.40.04:352][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.22-12.40.04:356][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-12.40.04:376][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.22-12.40.04:376][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-12.40.04:377][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.22-12.40.04:382][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.10.22-12.40.04:405][374]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.22-12.40.28:644][914]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.22-12.40.28:659][914]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.22-12.40.33:046][436]LogContentBrowser: Attempting asset rename: NewFolder -> TheMainRunner
+[2024.10.22-12.40.33:047][436]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.22-12.41.49:340][379]LogContentBrowser: Attempting asset rename: TheMainRunner -> TheRoad
+[2024.10.22-13.20.06:717][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001.png)
+[2024.10.22-13.20.06:749][793]LogTexture: Display: Building textures: Road001 (OODLE_AutoDXT, 1024X1024)
+[2024.10.22-13.20.06:843][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.22-13.20.06:847][793]LogAssetTools: Warning: Failed to import 'C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG.mtlx'. Unknown extension 'mtlx'.
+[2024.10.22-13.20.06:853][793]LogAssetTools: Warning: Failed to import 'C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG.usdc'. Unknown extension 'usdc'.
+[2024.10.22-13.20.06:896][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG_Color.jpg)
+[2024.10.22-13.20.07:215][793]LogTexture: Display: Building textures: Road001_4K-JPG_Color (OODLE_AutoDXT, 4096X4096)
+[2024.10.22-13.20.09:373][793]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.09:373][793]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.09:373][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.09:481][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG_Displacement.jpg)
+[2024.10.22-13.20.09:624][793]LogTexture: Display: Building textures: Road001_4K-JPG_Displacement (OODLE_AutoDXT, 4096X4096)
+[2024.10.22-13.20.11:900][793]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.11:900][793]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.11:900][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.12:036][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG_NormalDX.jpg)
+[2024.10.22-13.20.12:577][793]LogTexture: Display: Building textures: Road001_4K-JPG_NormalDX (OODLE_BC5, 4096X4096)
+[2024.10.22-13.20.13:397][793]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.13:397][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.13:397][793]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.13:558][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG_NormalGL.jpg)
+[2024.10.22-13.20.14:057][793]LogTexture: Display: Building textures: Road001_4K-JPG_NormalGL (OODLE_BC5, 4096X4096)
+[2024.10.22-13.20.14:799][793]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.14:799][793]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.14:799][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.10.22-13.20.14:885][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\Road001_4K-JPG/Road001_4K-JPG_Roughness.jpg)
+[2024.10.22-13.20.15:028][793]LogTexture: Display: Building textures: Road001_4K-JPG_Roughness (OODLE_AutoDXT, 4096X4096)
+[2024.10.22-13.20.17:190][793]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.17:190][793]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.17:190][793]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.22-13.20.20:335][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.10.22-13.20.20:341][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.035
+[2024.10.22-13.20.20:342][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001] ([1] browsable assets)...
+[2024.10.22-13.20.20:349][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001.Road001]
+[2024.10.22-13.20.20:349][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001]
+[2024.10.22-13.20.20:356][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_Auto1A7C58CC54094A9A5FAB7C3B456BAC00E.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_Auto1.uasset'
+[2024.10.22-13.20.20:358][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color] ([1] browsable assets)...
+[2024.10.22-13.20.20:367][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color.Road001_4K-JPG_Color]
+[2024.10.22-13.20.20:367][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color]
+[2024.10.22-13.20.20:639][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Color_Auto1D6F6E7ED4A68A18BBA15B783BF81C1A0.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color_Auto1.uasset'
+[2024.10.22-13.20.20:641][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement] ([1] browsable assets)...
+[2024.10.22-13.20.20:646][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement.Road001_4K-JPG_Displacement]
+[2024.10.22-13.20.20:646][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement]
+[2024.10.22-13.20.20:656][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Displacement_Auto636BB74A4B576D8F80C9D4B543470ABB.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement_Auto1.uasset'
+[2024.10.22-13.20.20:658][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX] ([1] browsable assets)...
+[2024.10.22-13.20.20:665][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX.Road001_4K-JPG_NormalDX]
+[2024.10.22-13.20.20:665][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX]
+[2024.10.22-13.20.20:898][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_NormalDX_Auto11AE3126841C3E200E0BA388E8C2745A9.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX_Auto1.uasset'
+[2024.10.22-13.20.20:900][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL] ([1] browsable assets)...
+[2024.10.22-13.20.20:907][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL.Road001_4K-JPG_NormalGL]
+[2024.10.22-13.20.20:907][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL]
+[2024.10.22-13.20.21:124][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_NormalGL_Auto1B99DE8F9485CDDD74E03F685B68E5FBC.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL_Auto1.uasset'
+[2024.10.22-13.20.21:127][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness] ([1] browsable assets)...
+[2024.10.22-13.20.21:133][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness.Road001_4K-JPG_Roughness]
+[2024.10.22-13.20.21:133][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness]
+[2024.10.22-13.20.21:144][141]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Roughness_Auto1115AF8B84B1A7527A630708B7DC2ADB3.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Autosaves/Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness_Auto1.uasset'
+[2024.10.22-13.20.21:145][141]LogFileHelpers: Auto-saving content packages took 0.804
+[2024.10.22-13.21.00:975][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.22-13.21.01:013][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/Road001" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001.uasset" SILENT=true
+[2024.10.22-13.21.01:075][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001C7507CA543B62566B2DDFBB993A57F98.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001.uasset'
+[2024.10.22-13.21.02:573][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Color81128EB0446F73E787BF10BD75840E36.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color.uasset'
+[2024.10.22-13.21.02:993][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Displacement023AE72845709C5909BD6FB933524A53.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement.uasset'
+[2024.10.22-13.21.05:571][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_NormalDX74F17CDE435F97E0BF4FE49B7A8460C1.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX.uasset'
+[2024.10.22-13.21.08:126][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_NormalGL516DFF7744EA08497F4A74AF69DF2D06.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL.uasset'
+[2024.10.22-13.21.08:555][581]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Roughness18FC8C35430A744E5982398B46C978AD.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness.uasset'
+[2024.10.22-13.21.08:590][581]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Roughness.Road001_4K-JPG_Roughness
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalGL.Road001_4K-JPG_NormalGL
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX.Road001_4K-JPG_NormalDX
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement.Road001_4K-JPG_Displacement
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color.Road001_4K-JPG_Color
+[2024.10.22-13.21.08:590][581]LogContentValidation: Display: Validating Texture2D /Game/TheRoad/Road001_4K-JPG/Road001.Road001
+[2024.10.22-13.21.10:962][840]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TheRoad/Road001_4K-JPG/Road001.Road001
+[2024.10.22-13.21.11:053][840]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.10.22-13.46.15:647][523]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.22-13.46.15:647][523]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.22-13.46.30:484][716]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.22-13.46.31:336][716]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.22-13.46.31:367][716]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.22-13.46.31:386][716]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.22-13.46.36:406][289]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.22-13.46.36:406][289]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.22-13.46.39:642][658]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Road
+[2024.10.22-13.46.39:667][658]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.22-13.46.42:364][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.10.22-13.46.42:398][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.46.42:402][878]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_Road45EFC4014C65177A22BD109204703E8B.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.46.42:425][878]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.46.42:425][878]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.46.43:278][941]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.46.43:788][942]LogRenderer: Reallocating scene render targets to support 1144x732 Format 10 NumSamples 1 (Frame:1).
+[2024.10.22-13.47.05:987][260]BlueprintLog: New page: Compile BP_Road
+[2024.10.22-13.47.06:044][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2024.10.22-13.47.07:228][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2024.10.22-13.47.07:278][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.47.07:287][367]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_Road7AF1ACE543F1E87E82E320ACBC8CD641.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.47.07:312][367]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.47.07:312][367]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.47.31:112][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.22-13.48.30:196][811]LogSlate: Window 'Save Asset As' being destroyed
+[2024.10.22-13.48.41:358][811]LogSlate: Window 'Message' being destroyed
+[2024.10.22-13.48.41:370][811]Message dialog closed, result: Cancel, title: Message, text: An object [Road001] of class [Texture2D] already exists in file [/Game/TheRoad/Road001_4K-JPG/Road001].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2024.10.22-13.48.45:884][ 29]LogSlate: Window 'Save Asset As' being destroyed
+[2024.10.22-13.49.16:009][867]LogMaterial: Display: Missing cached shadermap for Road001_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 36F4BCA4B5F5AD33D772FF5E7426E0D4CC146EBE), compiling. 
+[2024.10.22-13.49.16:052][867]LogMaterial: Display: Material /Game/TheRoad/Road001_4K-JPG/Road001_Mat.Road001_Mat needed to have new flag set bUsedWithStaticLighting !
+[2024.10.22-13.49.16:053][867]LogMaterial: Display: Missing cached shadermap for Road001_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 95DAF7542B3ED80B88CAB161012FFD309EC5F563), compiling. 
+[2024.10.22-13.49.16:075][867]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2024.10.22-13.49.16:078][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2024.10.22-13.49.16:078][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2024.10.22-13.49.16:078][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2024.10.22-13.49.16:078][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2024.10.22-13.49.16:078][867]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2024.10.22-13.49.18:464][ 48]Cmd: TRANSACTION UNDO
+[2024.10.22-13.49.18:464][ 48]LogEditorTransaction: Undo Create Actors
+[2024.10.22-13.49.20:932][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.10.22-13.49.22:021][169]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.22-13.49.22:153][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.10.22-13.49.22:157][169]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.22-13.49.22:158][169]LogShaderCompilers: Display: Total job queries 234, among them cache hits 8 (3.42%)
+[2024.10.22-13.49.22:158][169]LogShaderCompilers: Display: Tracking 219 distinct input hashes that result in 178 distinct outputs (81.28%)
+[2024.10.22-13.49.22:158][169]LogShaderCompilers: Display: RAM used: 0.75 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2024.10.22-13.49.22:158][169]LogShaderCompilers: Display: ================================================
+[2024.10.22-13.49.24:056][322]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 49B5A8C26BE52D3E3B585489A6EEE80449D1976A), compiling. 
+[2024.10.22-13.49.24:073][322]LogMaterial: Display: Material /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color_Mat.Road001_4K-JPG_Color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2024.10.22-13.49.24:074][322]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 149DE678379EA3D7C7FB1C666352B05D7D1FC23F), compiling. 
+[2024.10.22-13.49.24:096][322]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2024.10.22-13.49.24:136][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.49.24:136][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.49.24:136][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2024.10.22-13.49.24:136][323]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2024.10.22-13.49.24:136][323]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.24:137][323]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.49.24:654][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.49.24:654][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.49.24:960][363]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2024.10.22-13.49.24:960][363]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.25:443][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2024.10.22-13.49.25:443][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.27:165][541]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2024.10.22-13.49.27:165][541]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.27:324][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2024.10.22-13.49.27:324][554]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.27:359][557]Cmd: TRANSACTION UNDO
+[2024.10.22-13.49.27:359][557]LogEditorTransaction: Undo Create Actors
+[2024.10.22-13.49.27:586][562]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.22-13.49.27:586][562]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.27:886][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.10.22-13.49.27:886][568]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.49.36:409][367]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TheRoad/Road001_4K-JPG/Road001.Road001
+[2024.10.22-13.50.36:333][521]LogContentBrowser: Deferred new asset file creation: Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.50.36:361][521]LogContentBrowser: Creating deferred item: Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.50.43:058][251]LogContentBrowser: Attempting asset rename: Road001_4K-JPG_Displacement_Mat -> Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.50.43:062][251]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Displacement_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AD61DC6EF3AF6BA406BED93606D0825737B9D3BD), compiling. 
+[2024.10.22-13.50.43:064][251]LogContentBrowser: End creating deferred item Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.50.43:076][252]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.50.43:088][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.50.43:088][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.50.43:088][253]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.50.43:088][253]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.43:097][253]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.10.22-13.50.43:097][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.10.22-13.50.43:097][253]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.43:931][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.10.22-13.50.43:931][320]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.44:198][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.10.22-13.50.44:198][341]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.45:615][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.22-13.50.45:615][444]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.45:641][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.50.45:641][446]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.22-13.50.48:869][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2024.10.22-13.50.48:894][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.50.48:899][711]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_Road682ADF7D433903B9FE5964B39F139614.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.50.48:921][711]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/Road001_4K-JPG_Displacement_Mat975478964DE8BFE5EE11DC962F57F31A.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement_Mat.uasset'
+[2024.10.22-13.50.48:953][711]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.22-13.50.48:953][711]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.50.48:953][711]LogContentValidation: Display: Validating Material /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement_Mat.Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.51.11:883][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2024.10.22-13.51.11:913][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.51.11:919][894]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_Road411352B143CC4FBDCC3E1694CB696BB6.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.51.11:938][894]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.51.11:939][894]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.51.19:344][572]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_NormalDX.Road001_4K-JPG_NormalDX
+[2024.10.22-13.51.20:831][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.10.22-13.51.23:751][731]LogSlate: Window 'Save Content' being destroyed
+[2024.10.22-13.51.26:745][ 18]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Displacement_Mat.Road001_4K-JPG_Displacement_Mat
+[2024.10.22-13.51.26:773][ 18]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Displacement_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E7D03A1C7EC5D455B154FD930B50BCFCF61769C7), compiling. 
+[2024.10.22-13.51.26:831][ 18]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.10.22-13.51.27:094][ 18]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.10.22-13.51.27:346][ 18]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Displacement_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 558D0FC9DA597A675EF40737035572B6B66F8922), compiling. 
+[2024.10.22-13.51.27:349][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 43188800620CF1B3F84DB99BE4D3554C4C802AD7), compiling. 
+[2024.10.22-13.51.27:382][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.27:382][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.27:382][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.27:534][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.27:586][ 23]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.27:595][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.10.22-13.51.27:595][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.22-13.51.27:595][ 24]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.22-13.51.31:394][421]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TheRoad/Road001_4K-JPG/Road001_4K-JPG_Color_Mat.Road001_4K-JPG_Color_Mat
+[2024.10.22-13.51.31:396][421]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DAD3EC456DC6316DFA7717E3C642C7E26DE86C2A), compiling. 
+[2024.10.22-13.51.31:470][421]LogMaterial: Display: Missing cached shadermap for Road001_4K-JPG_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 217FC5AB6B40E172924422EF069EA3F371D98D07), compiling. 
+[2024.10.22-13.51.31:471][421]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A1AE0961423B4168F43E160C630B2AE7B82218C6), compiling. 
+[2024.10.22-13.51.31:481][421]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.22-13.51.31:481][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.31:481][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.22-13.51.31:579][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.22-13.51.43:046][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.10.22-13.51.43:078][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.51.43:083][624]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_Road9E4FBFF34D712AFD4D5C5AACCD9E48D5.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.51.43:101][624]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.51.43:102][624]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.52.44:549][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.10.22-13.52.44:577][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.52.44:582][725]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_RoadE5A1996846B0BB3BF73BC3B10E6085FB.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.52.44:604][725]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.52.44:605][725]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.22-13.56.09:004][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.10.22-13.56.09:046][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.22-13.56.09:051][ 92]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Saved/BP_RoadDB5EEFD74651DA8B9DBF87B59EE21022.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/MyProject/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.22-13.56.09:078][ 92]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.22-13.56.09:078][ 92]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
