@@ -4924,3 +4924,139 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.29-19.17.08:706][751]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget6EA15B9745C4A093C0BA5B88C56C5474.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
 [2024.10.29-19.17.08:726][751]AssetCheck: New page: Asset Save: PointsWidget
 [2024.10.29-19.17.08:726][751]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.10.29-19.18.04:634][939]BlueprintLog: New page: Compile PointsWidget
+[2024.10.29-19.18.04:710][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.10.29-19.18.05:632][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2024.10.29-19.18.05:661][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.10.29-19.18.05:670][  9]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget3F43B9E947141F01214351B96A504935.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.10.29-19.18.05:691][  9]AssetCheck: New page: Asset Save: PointsWidget
+[2024.10.29-19.18.05:691][  9]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.10.29-19.18.55:289][302]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.29-19.19.04:735][270]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.10.29-19.19.04:832][270]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2024.10.29-19.19.06:078][367]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2024.10.29-19.19.06:166][367]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacterD33C5D874C4EAC2FDDF741A4DD0B1A98.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.10.29-19.19.06:189][367]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.10.29-19.19.06:190][367]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.29-19.19.32:547][137]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.10.29-19.19.32:640][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.10.29-19.19.33:958][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2024.10.29-19.19.34:049][227]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter7A8A56354238DCFE6E23C6A973AD59C7.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.10.29-19.19.34:072][227]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.10.29-19.19.34:072][227]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.10.29-19.19.47:292][422]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.29-19.19.47:300][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.29-19.19.47:300][422]PIE: New page: PIE session: TheMainGameMap (30 окт. 2024 г., 01:19:47)
+[2024.10.29-19.19.47:335][422]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.10.29-19.19.47:336][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2024.10.29-19.19.47:338][422]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.10.29-19.19.47:339][422]LogPlayLevel: PIE: World Init took: (0.002165s)
+[2024.10.29-19.19.47:339][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004607s)
+[2024.10.29-19.19.47:384][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.10.29-19.19.47:386][422]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.29-19.19.47:386][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.29-19.19.47:386][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.29-19.19.47:386][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.29-19.19.47:386][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.29-19.19.47:386][422]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.29-19.19.47:393][422]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.29-19.19.47:393][422]LogAudioMixer: Display: 1: FrontRight
+[2024.10.29-19.19.47:401][422]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.10.29-19.19.47:401][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.29-19.19.47:401][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.29-19.19.47:401][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.29-19.19.47:402][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.29-19.19.47:402][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.29-19.19.47:402][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.29-19.19.47:404][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.29-19.19.47:404][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.29-19.19.47:404][422]LogInit: FAudioDevice initialized.
+[2024.10.29-19.19.47:404][422]LogAudio: Display: Audio Device (ID: 54) registered with world 'TheMainGameMap'.
+[2024.10.29-19.19.47:412][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.10.29-19.19.47:414][422]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.10.29-22.19.47
+[2024.10.29-19.19.47:414][422]LogWorld: Bringing up level for play took: 0.000571
+[2024.10.29-19.19.47:414][422]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2024.10.29-19.19.47:421][422]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.10.29-19.19.47:421][422]PIE: Server logged in
+[2024.10.29-19.19.47:422][422]PIE: Play in editor total start time 0,124 seconds.
+[2024.10.29-19.19.48:577][540]LogBlueprintUserMessages: [BP_Road_C_0] 100
+[2024.10.29-19.19.49:906][678]LogBlueprintUserMessages: [BP_Road_C_1] 200
+[2024.10.29-19.19.51:225][818]LogBlueprintUserMessages: [BP_Road_C_2] 300
+[2024.10.29-19.19.51:875][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.29-19.19.51:876][883]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.10.29-19.19.51:876][883]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-19.19.51:876][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-19.19.51:885][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.29-19.19.51:891][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-19.19.51:932][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.29-19.19.51:933][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.29-19.19.51:934][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.29-19.19.51:942][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.10.29-19.19.51:974][884]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.10.29-19.20.36:515][583]BlueprintLog: New page: Compile BP_Road
+[2024.10.29-19.20.36:592][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2024.10.29-19.20.38:166][731]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2024.10.29-19.20.38:224][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.10.29-19.20.38:240][731]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/BP_Road04C0321A49660EE9206F538BAABFDCD7.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.10.29-19.20.38:266][731]AssetCheck: New page: Asset Save: BP_Road
+[2024.10.29-19.20.38:266][731]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.10.29-19.20.40:252][927]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.29-19.20.40:260][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.29-19.20.40:260][927]PIE: New page: PIE session: TheMainGameMap (30 окт. 2024 г., 01:20:40)
+[2024.10.29-19.20.40:261][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.10.29-19.20.40:262][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001835s)
+[2024.10.29-19.20.40:264][927]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.10.29-19.20.40:264][927]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2024.10.29-19.20.40:264][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003812s)
+[2024.10.29-19.20.40:306][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.10.29-19.20.40:308][927]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.29-19.20.40:308][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.29-19.20.40:308][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.29-19.20.40:308][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.29-19.20.40:309][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.29-19.20.40:309][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.29-19.20.40:309][927]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.29-19.20.40:315][927]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.29-19.20.40:315][927]LogAudioMixer: Display: 1: FrontRight
+[2024.10.29-19.20.40:322][927]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.10.29-19.20.40:323][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.29-19.20.40:323][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.29-19.20.40:323][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.29-19.20.40:323][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.29-19.20.40:323][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.29-19.20.40:323][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.29-19.20.40:325][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.29-19.20.40:325][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.29-19.20.40:325][927]LogInit: FAudioDevice initialized.
+[2024.10.29-19.20.40:325][927]LogAudio: Display: Audio Device (ID: 55) registered with world 'TheMainGameMap'.
+[2024.10.29-19.20.40:332][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.10.29-19.20.40:333][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.10.29-22.20.40
+[2024.10.29-19.20.40:333][927]LogWorld: Bringing up level for play took: 0.000492
+[2024.10.29-19.20.40:333][927]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2024.10.29-19.20.40:340][927]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.10.29-19.20.40:340][927]PIE: Server logged in
+[2024.10.29-19.20.40:341][927]PIE: Play in editor total start time 0,082 seconds.
+[2024.10.29-19.20.55:286][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.29-19.20.55:286][555]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.10.29-19.20.55:286][555]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-19.20.55:286][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-19.20.55:293][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.29-19.20.55:299][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-19.20.55:339][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.29-19.20.55:339][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.29-19.20.55:340][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.29-19.20.55:349][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2024.10.29-19.20.55:373][556]LogPlayLevel: Display: Destroying online subsystem :Context_66
