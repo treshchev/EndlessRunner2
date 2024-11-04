@@ -1265,3 +1265,1617 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.04-11.22.15:321][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.11.04-11.22.15:325][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2024.11.04-11.22.15:371][646]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.04-11.23.40:699][983]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.04-11.23.40:699][983]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.04-11.23.41:393][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.23.41:403][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.23.41:403][ 32]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:23:41)
+[2024.11.04-11.23.41:435][ 32]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.23.41:437][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2024.11.04-11.23.41:438][ 32]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.23.41:439][ 32]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2024.11.04-11.23.41:439][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003936s)
+[2024.11.04-11.23.41:445][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.04-11.23.41:446][ 32]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.23.41:446][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.23.41:446][ 32]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.23.41:446][ 32]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.23.41:446][ 32]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.23.41:446][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.23.41:449][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.23.41:449][ 32]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.23.41:456][ 32]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.23.41:457][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.23.41:459][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.23.41:459][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.23.41:459][ 32]LogInit: FAudioDevice initialized.
+[2024.11.04-11.23.41:459][ 32]LogAudio: Display: Audio Device (ID: 5) registered with world 'TheMainGameMap'.
+[2024.11.04-11.23.41:471][ 32]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.23.41:473][ 32]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.23.41
+[2024.11.04-11.23.41:473][ 32]LogWorld: Bringing up level for play took: 0.000434
+[2024.11.04-11.23.41:473][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.11.04-11.23.41:480][ 32]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.23.41:481][ 32]PIE: Server logged in
+[2024.11.04-11.23.41:481][ 32]PIE: Play in editor total start time 0,08 seconds.
+[2024.11.04-11.23.42:692][175]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.23.43:356][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.23.43:357][251]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.23.43:357][251]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.23.43:357][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.23.43:365][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.23.43:373][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.23.43:379][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.23.43:379][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.23.43:380][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.23.43:384][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.04-11.23.43:434][256]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.11.04-11.30.00:156][998]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.04-11.30.00:177][998]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.04-11.30.02:505][277]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.04-11.30.02:505][277]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.04-11.30.19:845][964]LogContentBrowser: Attempting asset rename: NewFolder -> TheBarrierMaterials
+[2024.11.04-11.30.19:845][964]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.04-11.30.28:240][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Bump.jpg)
+[2024.11.04-11.30.28:359][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump (OODLE_AutoDXT, 2048X2048)
+[2024.11.04-11.30.28:805][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.28:805][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.28:816][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Cavity.jpg)
+[2024.11.04-11.30.28:856][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Cavity (OODLE_AutoDXT, 2048X2048)
+[2024.11.04-11.30.29:240][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.29:240][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.29:249][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Gloss.jpg)
+[2024.11.04-11.30.29:279][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Gloss (OODLE_AutoDXT, 2048X2048)
+[2024.11.04-11.30.29:528][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.29:528][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.29:542][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Normal.jpg)
+[2024.11.04-11.30.29:605][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Normal (OODLE_BC5, 2048X2048)
+[2024.11.04-11.30.29:751][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.04-11.30.29:751][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.04-11.30.29:781][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Roughness.jpg)
+[2024.11.04-11.30.29:801][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Roughness (OODLE_AutoDXT, 2048X2048)
+[2024.11.04-11.30.30:043][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.30:043][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.30:080][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid_2K_Specular.jpg)
+[2024.11.04-11.30.30:101][310]LogTexture: Display: Building textures: Old_Concrete_Barrier_vksrdes_Mid_2K_Specular (OODLE_AutoDXT, 2048X2048)
+[2024.11.04-11.30.30:357][310]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.30:357][310]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.04-11.30.30:391][310]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\vksrdes.json)
+[2024.11.04-11.30.35:418][310]LogSlate: Window 'DataTable Options' being destroyed
+[2024.11.04-11.30.35:427][310]LogAssetTools: The import task was canceled.
+[2024.11.04-11.30.38:512][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.04-11.30.38:775][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid0C247AE24A685DF4296AA3811B460CE3.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump.uasset'
+[2024.11.04-11.30.39:004][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid677E5FFD46D632A667EEAFA07A28BAB0.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Cavity.uasset'
+[2024.11.04-11.30.39:168][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid4BAA22854A8FA72420903881787EBC6D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Gloss.uasset'
+[2024.11.04-11.30.39:532][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid6FF238144768665A0A65D3BD3D0F145F.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Normal.uasset'
+[2024.11.04-11.30.39:700][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid8E57442A4E5A705FECFE6F9E55C2F66D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Roughness.uasset'
+[2024.11.04-11.30.39:884][635]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_MidD97DB37E45E79913377C8B9525CCCD6D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Specular.uasset'
+[2024.11.04-11.30.39:901][635]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.30.39:901][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Specular.Old_Concrete_Barrier_vksrdes_Mid_2K_Specular
+[2024.11.04-11.30.39:901][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Roughness.Old_Concrete_Barrier_vksrdes_Mid_2K_Roughness
+[2024.11.04-11.30.39:901][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Normal.Old_Concrete_Barrier_vksrdes_Mid_2K_Normal
+[2024.11.04-11.30.39:901][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Gloss.Old_Concrete_Barrier_vksrdes_Mid_2K_Gloss
+[2024.11.04-11.30.39:902][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Cavity.Old_Concrete_Barrier_vksrdes_Mid_2K_Cavity
+[2024.11.04-11.30.39:902][635]LogContentValidation: Display: Validating Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump.Old_Concrete_Barrier_vksrdes_Mid_2K_Bump
+[2024.11.04-11.30.48:133][255]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid.fbx)
+[2024.11.04-11.30.48:196][255]LogFbx: Loading FBX Scene from C:\Users\letsg\Downloads\old_concrete_barrier_vksrdes_mid\Old_Concrete_Barrier_vksrdes_Mid.fbx
+[2024.11.04-11.30.48:215][255]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.04-11.30.51:038][255]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.04-11.30.51:108][255]LogMaterial: Display: Missing cached shadermap for MatID_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 14CA50EFDD846A0219AB2C23328EC2B93D302082), compiling. 
+[2024.11.04-11.30.51:124][255]LogFbx: Display: Triangulating static mesh vksrdes_LOD0_TIER2_000
+[2024.11.04-11.30.51:170][255]LogStaticMesh: Building static mesh Old_Concrete_Barrier_vksrdes_Mid...
+[2024.11.04-11.30.51:309][255]LogStaticMesh: Built static mesh [0.14s] /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.30.51:388][255]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.04-11.30.51:585][260]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.30.51:585][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.11.04-11.30.51:585][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.11.04-11.30.51:585][260]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.30.51:649][260]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.51:649][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.11.04-11.30.51:649][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.11.04-11.30.51:649][260]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.54:164][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.11.04-11.30.54:164][521]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.54:166][521]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.30.54:166][521]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2024.11.04-11.30.54:167][521]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.11.04-11.30.54:167][521]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.11.04-11.30.54:167][521]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.30.54:327][536]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.11.04-11.30.54:327][536]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.54:796][580]LogSlate: Window 'Message Log' being destroyed
+[2024.11.04-11.30.54:804][580]LogSlate: Window 'Message Log' being destroyed
+[2024.11.04-11.30.55:394][632]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.11.04-11.30.55:394][632]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.55:447][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.11.04-11.30.55:447][637]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.30.56:789][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.04-11.30.56:860][773]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid118D2FAE4BB011D2870A97825F8B1E4D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.30.56:874][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheBarrierMaterials/MatID_1" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/MatID_1.uasset" SILENT=true
+[2024.11.04-11.30.56:879][773]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/MatID_164737FA8462F474FE8438CAB3D9A7C69.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/MatID_1.uasset'
+[2024.11.04-11.30.56:902][773]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.30.56:902][773]LogContentValidation: Display: Validating Material /Game/TheBarrierMaterials/MatID_1.MatID_1
+[2024.11.04-11.30.56:902][773]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.30.57:936][876]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.30.58:117][876]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.11.04-11.30.58:333][876]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.11.04-11.30.59:089][876]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.04-11.31.15:055][260]LogContentBrowser: Deferred new asset file creation: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.15:068][260]LogContentBrowser: Creating deferred item: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.16:616][430]LogContentBrowser: Attempting asset rename: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat -> Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.16:625][430]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 56B03559DDAF19759AE235A52C4BB7BCD14DBC91), compiling. 
+[2024.11.04-11.31.16:637][430]LogContentBrowser: End creating deferred item Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.16:646][431]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.31.16:646][431]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.11.04-11.31.16:646][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.11.04-11.31.16:647][431]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.31.16:656][432]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.16:657][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.11.04-11.31.16:657][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.11.04-11.31.16:657][432]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.17:363][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.11.04-11.31.17:363][486]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.17:549][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.11.04-11.31.17:549][500]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.18:577][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.11.04-11.31.18:577][575]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.18:645][577]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.11.04-11.31.18:645][577]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.31.19:271][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.04-11.31.19:319][641]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid78B92F4744F7948FE7877EA04E04C810.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat.uasset'
+[2024.11.04-11.31.19:332][641]AssetCheck: New page: Asset Save: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.19:332][641]LogContentValidation: Display: Validating Material /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat.Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.31.22:900][934]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1233).
+[2024.11.04-11.31.23:027][947]LogSlate: Window 'Old_Concrete_Barrier_vksrdes_Mid' being destroyed
+[2024.11.04-11.31.43:869][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.04-11.31.43:938][ 82]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_MidC66894CD40C9124112202097A093AB6C.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.31.43:952][ 82]AssetCheck: New page: Asset Save: Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.31.43:952][ 82]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.32.45:085][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.04-11.32.45:152][278]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid150ED2EA487AA4A31D7AFDAFF4ED22A2.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.32.45:166][278]AssetCheck: New page: Asset Save: Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.32.45:166][278]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.32.55:967][202]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat.Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.32.55:993][202]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D4F5C37D45AC29D9FA266DE2088F219BA56CB2F8), compiling. 
+[2024.11.04-11.32.56:091][202]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F9CB67D41F7BE3E5DDCD0B8CF195090974500EAE), compiling. 
+[2024.11.04-11.32.56:099][202]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3FC69D78F96BFE22D3FB69395D62C2F1EC4E1C25), compiling. 
+[2024.11.04-11.32.56:101][202]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EB4E4643E9071A6BD9D1A561E8E8159D2552022), compiling. 
+[2024.11.04-11.32.56:116][202]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.32.56:116][202]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.32.56:116][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.32.56:120][202]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.04-11.32.56:225][203]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.11.04-11.32.56:225][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.11.04-11.32.56:226][203]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.11.04-11.32.56:226][203]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.32.56:226][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.32.56:226][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.32.56:277][208]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.32.56:285][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.11.04-11.32.56:285][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.11.04-11.32.56:285][209]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.33.05:944][  9]LogSlate: Window 'Message' being destroyed
+[2024.11.04-11.33.05:952][  9]Message dialog closed, result: Ok, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2024.11.04-11.33.15:457][822]LogContentBrowser: Deferred new asset file creation: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.15:472][822]LogContentBrowser: Creating deferred item: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.16:945][944]LogContentBrowser: Attempting asset rename: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1 -> Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.16:958][944]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: F60F9ADF6DBCFDD9305570FF1358B222DBC06A6E), compiling. 
+[2024.11.04-11.33.16:960][944]LogContentBrowser: End creating deferred item Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.16:970][945]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.33.16:978][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.11.04-11.33.16:978][946]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.11.04-11.33.16:978][946]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.33.16:981][946]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.16:983][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.11.04-11.33.16:983][946]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.11.04-11.33.16:983][946]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.17:647][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.11.04-11.33.17:647][997]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.17:827][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.11.04-11.33.17:827][  7]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.18:873][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.11.04-11.33.18:873][ 84]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.18:883][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.11.04-11.33.18:884][ 85]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.19:468][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.04-11.33.19:540][135]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid0E33FE784EF3C4B3AEBC4BB4F19AE214.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.33.19:560][135]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid8D68201E4A1F31B97516A4BCC7D8EFA9.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1.uasset'
+[2024.11.04-11.33.19:577][135]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.33.19:577][135]LogContentValidation: Display: Validating Material /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1.Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.19:577][135]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.33.25:833][655]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1.Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1
+[2024.11.04-11.33.25:834][655]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: CB2DF0410C23A4991782CF5E38BED43A5E14592C), compiling. 
+[2024.11.04-11.33.25:894][655]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: FBA7687EB97319DF4198F73C23B3B6038534E1AC), compiling. 
+[2024.11.04-11.33.25:896][655]LogMaterial: Display: Missing cached shadermap for Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat1 in PCD3D_SM5, Default, SM5 (DDC key hash: F1BC031A79DD0E7B02FC7E973944CA33114E7A8E), compiling. 
+[2024.11.04-11.33.25:897][655]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 867F9D08D59BDA8CA8D2E9FBE943B6B86AEF4B24), compiling. 
+[2024.11.04-11.33.25:907][655]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.33.25:908][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.33.25:908][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.33.25:956][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.33.29:224][966]LogContentBrowser: Attempting asset rename: Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat -> Old_Concrete_Barrier_vksrdes_Mid_2K_Bump_Mat
+[2024.11.04-11.33.32:468][257]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid_2K_Specular.Old_Concrete_Barrier_vksrdes_Mid_2K_Specular
+[2024.11.04-11.33.32:540][257]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.11.04-11.33.35:490][528]LogContentBrowser: Deferred new asset file creation: Old_Concrete_Barrier_vksrdes_Mid_2K_Specular_Mat
+[2024.11.04-11.33.35:513][528]LogContentBrowser: Creating deferred item: Old_Concrete_Barrier_vksrdes_Mid_2K_Specular_Mat
+[2024.11.04-11.33.52:895][ 11]LogContentBrowser: Attempting asset rename: Old_Concrete_Barrier_vksrdes_Mid_2K_Specular_Mat -> Material3
+[2024.11.04-11.33.52:905][ 11]LogMaterial: Display: Missing cached shadermap for Material3 in PCD3D_SM5, Default, SM5 (DDC key hash: 124A53DFE317E5479DB97665DFB82AADA825547A), compiling. 
+[2024.11.04-11.33.52:907][ 11]LogContentBrowser: End creating deferred item Old_Concrete_Barrier_vksrdes_Mid_2K_Specular_Mat
+[2024.11.04-11.33.52:916][ 12]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.33.52:926][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.11.04-11.33.52:926][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.11.04-11.33.52:926][ 13]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.04-11.33.52:926][ 13]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.52:934][ 13]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.11.04-11.33.52:934][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2024.11.04-11.33.52:934][ 13]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.53:669][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.11.04-11.33.53:669][ 63]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.53:833][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2024.11.04-11.33.53:845][ 75]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.54:884][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.11.04-11.33.54:884][134]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.54:886][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.33.54:886][134]LogShaderCompilers: Display: Total job queries 110, among them cache hits 44 (40.00%)
+[2024.11.04-11.33.54:887][134]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 26 distinct outputs (48.15%)
+[2024.11.04-11.33.54:887][134]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2024.11.04-11.33.54:887][134]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.33.54:943][139]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.11.04-11.33.54:943][139]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.04-11.33.56:125][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.11.04-11.33.56:164][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheBarrierMaterials/Material3" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Material3.uasset" SILENT=true
+[2024.11.04-11.33.56:169][238]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Material335C234B540C6EE28A03E7C9C4E626D99.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Material3.uasset'
+[2024.11.04-11.33.56:186][238]AssetCheck: New page: Asset Save: Material3
+[2024.11.04-11.33.56:186][238]LogContentValidation: Display: Validating Material /Game/TheBarrierMaterials/Material3.Material3
+[2024.11.04-11.34.11:811][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.04-11.34.11:869][944]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid5AE193A141F7D3BF0B82BC8E8EEE9F05.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.34.11:883][944]AssetCheck: New page: Asset Save: Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.34.11:883][944]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.34.55:071][152]LogSlate: Window 'Message' being destroyed
+[2024.11.04-11.34.55:080][152]Message dialog closed, result: Cancel, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2024.11.04-11.35.22:234][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.04-11.35.22:305][712]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Old_Concrete_Barrier_vksrdes_Mid1D99310E48CFAA4C047A2F902B56228F.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.uasset'
+[2024.11.04-11.35.22:316][712]AssetCheck: New page: Asset Save: Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.35.22:316][712]LogContentValidation: Display: Validating StaticMesh /Game/TheBarrierMaterials/Old_Concrete_Barrier_vksrdes_Mid.Old_Concrete_Barrier_vksrdes_Mid
+[2024.11.04-11.36.22:169][448]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TheBarrierMaterials/Material3.Material3
+[2024.11.04-11.36.22:171][448]LogMaterial: Display: Missing cached shadermap for Material3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4EA9FA461541A0BEA08017D269521D9A1710898F), compiling. 
+[2024.11.04-11.36.22:235][448]LogMaterial: Display: Missing cached shadermap for Material3 in PCD3D_SM5, Default, SM5 (DDC key hash: B4F46A3D2EBB128F02BD488BC6325B32FF374958), compiling. 
+[2024.11.04-11.36.22:237][448]LogMaterial: Display: Missing cached shadermap for Material3 in PCD3D_SM5, Default, SM5 (DDC key hash: A20EDFDD445D6E7EB607E6A9C68D7B8A2DC3AD04), compiling. 
+[2024.11.04-11.36.22:239][448]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 076BE3EF51D015DABF055F5A0B1FF5B916D60644), compiling. 
+[2024.11.04-11.36.22:251][448]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.36.22:251][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.36.22:251][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.11.04-11.36.22:337][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.39.06:331][549]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.39.06:338][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.39.06:338][549]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:39:06)
+[2024.11.04-11.39.06:338][549]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.39.06:341][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002436s)
+[2024.11.04-11.39.06:343][549]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.39.06:343][549]LogPlayLevel: PIE: World Init took: (0.002134s)
+[2024.11.04-11.39.06:343][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004831s)
+[2024.11.04-11.39.06:350][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.04-11.39.06:351][549]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.39.06:351][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.39.06:351][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.39.06:352][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.39.06:352][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.39.06:352][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.39.06:352][549]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.39.06:355][549]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.39.06:355][549]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.39.06:362][549]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.39.06:362][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.39.06:362][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.39.06:362][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.39.06:363][549]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.39.06:363][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.39.06:363][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.39.06:364][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.39.06:364][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.39.06:364][549]LogInit: FAudioDevice initialized.
+[2024.11.04-11.39.06:364][549]LogAudio: Display: Audio Device (ID: 6) registered with world 'TheMainGameMap'.
+[2024.11.04-11.39.06:370][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.39.06:372][549]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.39.06
+[2024.11.04-11.39.06:372][549]LogWorld: Bringing up level for play took: 0.000547
+[2024.11.04-11.39.06:372][549]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.11.04-11.39.06:379][549]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.39.06:379][549]PIE: Server logged in
+[2024.11.04-11.39.06:380][549]PIE: Play in editor total start time 0,043 seconds.
+[2024.11.04-11.39.07:634][693]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.39.08:950][849]LogBlueprintUserMessages: [BP_Road_C_1] 604.0
+[2024.11.04-11.39.10:262][  3]LogBlueprintUserMessages: [BP_Road_C_2] 606.0
+[2024.11.04-11.39.11:577][159]LogBlueprintUserMessages: [BP_Road_C_3] 608.0
+[2024.11.04-11.39.12:883][315]LogBlueprintUserMessages: [BP_Road_C_4] 610.0
+[2024.11.04-11.39.14:181][470]LogBlueprintUserMessages: [BP_Road_C_5] 612.0
+[2024.11.04-11.39.15:475][624]LogBlueprintUserMessages: [BP_Road_C_6] 614.0
+[2024.11.04-11.39.16:767][778]LogBlueprintUserMessages: [BP_Road_C_7] 616.0
+[2024.11.04-11.39.18:059][932]LogBlueprintUserMessages: [BP_Road_C_8] 618.0
+[2024.11.04-11.39.19:342][ 85]LogBlueprintUserMessages: [BP_Road_C_9] 620.0
+[2024.11.04-11.39.20:621][237]LogBlueprintUserMessages: [BP_Road_C_10] 622.0
+[2024.11.04-11.39.21:898][389]LogBlueprintUserMessages: [BP_Road_C_11] 624.0
+[2024.11.04-11.39.23:168][540]LogBlueprintUserMessages: [BP_Road_C_12] 626.0
+[2024.11.04-11.39.24:436][691]LogBlueprintUserMessages: [BP_Road_C_13] 628.0
+[2024.11.04-11.39.25:695][840]LogBlueprintUserMessages: [BP_Road_C_14] 630.0
+[2024.11.04-11.39.26:957][985]LogBlueprintUserMessages: [BP_Road_C_15] 632.0
+[2024.11.04-11.39.28:212][134]LogBlueprintUserMessages: [BP_Road_C_16] 634.0
+[2024.11.04-11.39.29:459][283]LogBlueprintUserMessages: [BP_Road_C_17] 636.0
+[2024.11.04-11.39.30:709][432]LogBlueprintUserMessages: [BP_Road_C_18] 638.0
+[2024.11.04-11.39.31:951][580]LogBlueprintUserMessages: [BP_Road_C_19] 640.0
+[2024.11.04-11.39.33:194][728]LogBlueprintUserMessages: [BP_Road_C_20] 642.0
+[2024.11.04-11.39.34:428][874]LogBlueprintUserMessages: [BP_Road_C_21] 644.0
+[2024.11.04-11.39.35:661][ 21]LogBlueprintUserMessages: [BP_Road_C_22] 646.0
+[2024.11.04-11.39.36:885][167]LogBlueprintUserMessages: [BP_Road_C_23] 648.0
+[2024.11.04-11.39.38:108][313]LogBlueprintUserMessages: [BP_Road_C_24] 650.0
+[2024.11.04-11.39.39:333][459]LogBlueprintUserMessages: [BP_Road_C_25] 652.0
+[2024.11.04-11.39.40:547][604]LogBlueprintUserMessages: [BP_Road_C_26] 654.0
+[2024.11.04-11.39.41:764][749]LogBlueprintUserMessages: [BP_Road_C_27] 656.0
+[2024.11.04-11.39.42:969][874]LogBlueprintUserMessages: [BP_Road_C_28] 658.0
+[2024.11.04-11.39.44:239][945]LogBlueprintUserMessages: [BP_Road_C_29] 660.0
+[2024.11.04-11.39.45:577][949]LogBlueprintUserMessages: [BP_Road_C_30] 662.0
+[2024.11.04-11.39.46:583][952]LogBlueprintUserMessages: [BP_Road_C_31] 664.0
+[2024.11.04-11.39.47:924][956]LogBlueprintUserMessages: [BP_Road_C_32] 666.0
+[2024.11.04-11.39.49:259][960]LogBlueprintUserMessages: [BP_Road_C_33] 668.0
+[2024.11.04-11.39.50:266][963]LogBlueprintUserMessages: [BP_Road_C_34] 670.0
+[2024.11.04-11.39.51:616][967]LogBlueprintUserMessages: [BP_Road_C_35] 672.0
+[2024.11.04-11.39.52:617][970]LogBlueprintUserMessages: [BP_Road_C_36] 674.0
+[2024.11.04-11.39.53:968][974]LogBlueprintUserMessages: [BP_Road_C_37] 676.0
+[2024.11.04-11.39.54:979][977]LogBlueprintUserMessages: [BP_Road_C_38] 678.0
+[2024.11.04-11.39.56:332][981]LogBlueprintUserMessages: [BP_Road_C_39] 680.0
+[2024.11.04-11.39.57:344][984]LogBlueprintUserMessages: [BP_Road_C_40] 682.0
+[2024.11.04-11.39.58:701][988]LogBlueprintUserMessages: [BP_Road_C_41] 684.0
+[2024.11.04-11.39.59:704][991]LogBlueprintUserMessages: [BP_Road_C_42] 686.0
+[2024.11.04-11.40.00:715][994]LogBlueprintUserMessages: [BP_Road_C_43] 688.0
+[2024.11.04-11.40.02:057][998]LogBlueprintUserMessages: [BP_Road_C_44] 690.0
+[2024.11.04-11.40.03:063][  1]LogBlueprintUserMessages: [BP_Road_C_45] 692.0
+[2024.11.04-11.40.04:398][  5]LogBlueprintUserMessages: [BP_Road_C_46] 694.0
+[2024.11.04-11.40.05:406][  8]LogBlueprintUserMessages: [BP_Road_C_47] 696.0
+[2024.11.04-11.40.06:744][ 12]LogBlueprintUserMessages: [BP_Road_C_48] 698.0
+[2024.11.04-11.40.07:744][ 15]LogBlueprintUserMessages: [BP_Road_C_49] 700.0
+[2024.11.04-11.40.08:757][ 18]LogBlueprintUserMessages: [BP_Road_C_50] 702.0
+[2024.11.04-11.40.10:092][ 22]LogBlueprintUserMessages: [BP_Road_C_51] 704.0
+[2024.11.04-11.40.11:098][ 25]LogBlueprintUserMessages: [BP_Road_C_52] 706.0
+[2024.11.04-11.40.12:103][ 28]LogBlueprintUserMessages: [BP_Road_C_53] 708.0
+[2024.11.04-11.40.13:438][ 32]LogBlueprintUserMessages: [BP_Road_C_54] 710.0
+[2024.11.04-11.40.14:448][ 35]LogBlueprintUserMessages: [BP_Road_C_55] 712.0
+[2024.11.04-11.40.15:462][ 38]LogBlueprintUserMessages: [BP_Road_C_56] 714.0
+[2024.11.04-11.40.16:804][ 42]LogBlueprintUserMessages: [BP_Road_C_57] 716.0
+[2024.11.04-11.40.17:805][ 45]LogBlueprintUserMessages: [BP_Road_C_58] 718.0
+[2024.11.04-11.40.18:810][ 48]LogBlueprintUserMessages: [BP_Road_C_59] 720.0
+[2024.11.04-11.40.20:148][ 52]LogBlueprintUserMessages: [BP_Road_C_60] 722.0
+[2024.11.04-11.40.21:146][ 55]LogBlueprintUserMessages: [BP_Road_C_61] 724.0
+[2024.11.04-11.40.22:150][ 58]LogBlueprintUserMessages: [BP_Road_C_62] 726.0
+[2024.11.04-11.40.23:157][ 61]LogBlueprintUserMessages: [BP_Road_C_63] 728.0
+[2024.11.04-11.40.24:501][ 65]LogBlueprintUserMessages: [BP_Road_C_64] 730.0
+[2024.11.04-11.40.25:508][ 68]LogBlueprintUserMessages: [BP_Road_C_65] 732.0
+[2024.11.04-11.40.26:513][ 71]LogBlueprintUserMessages: [BP_Road_C_66] 734.0
+[2024.11.04-11.40.27:516][ 74]LogBlueprintUserMessages: [BP_Road_C_67] 736.0
+[2024.11.04-11.40.28:869][ 78]LogBlueprintUserMessages: [BP_Road_C_68] 738.0
+[2024.11.04-11.40.29:879][ 81]LogBlueprintUserMessages: [BP_Road_C_69] 740.0
+[2024.11.04-11.40.30:879][ 84]LogBlueprintUserMessages: [BP_Road_C_70] 742.0
+[2024.11.04-11.40.31:885][ 87]LogBlueprintUserMessages: [BP_Road_C_71] 744.0
+[2024.11.04-11.40.32:895][ 90]LogBlueprintUserMessages: [BP_Road_C_72] 746.0
+[2024.11.04-11.40.34:235][ 94]LogBlueprintUserMessages: [BP_Road_C_73] 748.0
+[2024.11.04-11.40.35:233][ 97]LogBlueprintUserMessages: [BP_Road_C_74] 750.0
+[2024.11.04-11.40.36:235][100]LogBlueprintUserMessages: [BP_Road_C_75] 752.0
+[2024.11.04-11.40.37:245][103]LogBlueprintUserMessages: [BP_Road_C_76] 754.0
+[2024.11.04-11.40.38:244][106]LogBlueprintUserMessages: [BP_Road_C_77] 756.0
+[2024.11.04-11.40.39:249][109]LogBlueprintUserMessages: [BP_Road_C_78] 758.0
+[2024.11.04-11.40.40:251][112]LogBlueprintUserMessages: [BP_Road_C_79] 760.0
+[2024.11.04-11.40.41:596][116]LogBlueprintUserMessages: [BP_Road_C_80] 762.0
+[2024.11.04-11.40.42:599][119]LogBlueprintUserMessages: [BP_Road_C_81] 764.0
+[2024.11.04-11.40.43:609][122]LogBlueprintUserMessages: [BP_Road_C_82] 766.0
+[2024.11.04-11.40.44:615][125]LogBlueprintUserMessages: [BP_Road_C_83] 768.0
+[2024.11.04-11.40.45:625][128]LogBlueprintUserMessages: [BP_Road_C_84] 770.0
+[2024.11.04-11.40.46:624][131]LogBlueprintUserMessages: [BP_Road_C_85] 772.0
+[2024.11.04-11.40.47:631][134]LogBlueprintUserMessages: [BP_Road_C_86] 774.0
+[2024.11.04-11.40.48:631][137]LogBlueprintUserMessages: [BP_Road_C_87] 776.0
+[2024.11.04-11.40.49:636][140]LogBlueprintUserMessages: [BP_Road_C_88] 778.0
+[2024.11.04-11.40.50:641][143]LogBlueprintUserMessages: [BP_Road_C_89] 780.0
+[2024.11.04-11.40.51:641][146]LogBlueprintUserMessages: [BP_Road_C_90] 782.0
+[2024.11.04-11.40.52:651][149]LogBlueprintUserMessages: [BP_Road_C_91] 784.0
+[2024.11.04-11.40.53:664][152]LogBlueprintUserMessages: [BP_Road_C_92] 786.0
+[2024.11.04-11.40.54:668][155]LogBlueprintUserMessages: [BP_Road_C_93] 788.0
+[2024.11.04-11.40.55:677][158]LogBlueprintUserMessages: [BP_Road_C_94] 790.0
+[2024.11.04-11.40.56:687][161]LogBlueprintUserMessages: [BP_Road_C_95] 792.0
+[2024.11.04-11.40.57:703][164]LogBlueprintUserMessages: [BP_Road_C_96] 794.0
+[2024.11.04-11.40.58:703][167]LogBlueprintUserMessages: [BP_Road_C_97] 796.0
+[2024.11.04-11.40.59:703][170]LogBlueprintUserMessages: [BP_Road_C_98] 798.0
+[2024.11.04-11.41.00:716][173]LogBlueprintUserMessages: [BP_Road_C_99] 800.0
+[2024.11.04-11.41.01:724][176]LogBlueprintUserMessages: [BP_Road_C_100] 802.0
+[2024.11.04-11.41.02:729][179]LogBlueprintUserMessages: [BP_Road_C_101] 804.0
+[2024.11.04-11.41.03:741][182]LogBlueprintUserMessages: [BP_Road_C_102] 806.0
+[2024.11.04-11.41.04:744][185]LogBlueprintUserMessages: [BP_Road_C_103] 808.0
+[2024.11.04-11.41.05:756][188]LogBlueprintUserMessages: [BP_Road_C_104] 810.0
+[2024.11.04-11.41.06:770][191]LogBlueprintUserMessages: [BP_Road_C_105] 812.0
+[2024.11.04-11.41.07:780][194]LogBlueprintUserMessages: [BP_Road_C_106] 814.0
+[2024.11.04-11.41.08:787][197]LogBlueprintUserMessages: [BP_Road_C_107] 816.0
+[2024.11.04-11.41.09:460][199]LogBlueprintUserMessages: [BP_Road_C_108] 818.0
+[2024.11.04-11.41.10:470][202]LogBlueprintUserMessages: [BP_Road_C_109] 820.0
+[2024.11.04-11.41.11:478][205]LogBlueprintUserMessages: [BP_Road_C_110] 822.0
+[2024.11.04-11.41.12:484][208]LogBlueprintUserMessages: [BP_Road_C_111] 824.0
+[2024.11.04-11.41.13:495][211]LogBlueprintUserMessages: [BP_Road_C_112] 826.0
+[2024.11.04-11.41.14:502][214]LogBlueprintUserMessages: [BP_Road_C_113] 828.0
+[2024.11.04-11.41.15:508][217]LogBlueprintUserMessages: [BP_Road_C_114] 830.0
+[2024.11.04-11.41.16:514][220]LogBlueprintUserMessages: [BP_Road_C_115] 832.0
+[2024.11.04-11.41.17:183][222]LogBlueprintUserMessages: [BP_Road_C_116] 834.0
+[2024.11.04-11.41.18:192][225]LogBlueprintUserMessages: [BP_Road_C_117] 836.0
+[2024.11.04-11.41.19:196][228]LogBlueprintUserMessages: [BP_Road_C_118] 838.0
+[2024.11.04-11.41.20:203][231]LogBlueprintUserMessages: [BP_Road_C_119] 840.0
+[2024.11.04-11.41.21:210][234]LogBlueprintUserMessages: [BP_Road_C_120] 842.0
+[2024.11.04-11.41.21:886][236]LogBlueprintUserMessages: [BP_Road_C_121] 844.0
+[2024.11.04-11.41.22:888][239]LogBlueprintUserMessages: [BP_Road_C_122] 846.0
+[2024.11.04-11.41.23:890][242]LogBlueprintUserMessages: [BP_Road_C_123] 848.0
+[2024.11.04-11.41.24:895][245]LogBlueprintUserMessages: [BP_Road_C_124] 850.0
+[2024.11.04-11.41.25:902][248]LogBlueprintUserMessages: [BP_Road_C_125] 852.0
+[2024.11.04-11.41.26:577][250]LogBlueprintUserMessages: [BP_Road_C_126] 854.0
+[2024.11.04-11.41.27:593][253]LogBlueprintUserMessages: [BP_Road_C_127] 856.0
+[2024.11.04-11.41.28:599][256]LogBlueprintUserMessages: [BP_Road_C_128] 858.0
+[2024.11.04-11.41.29:606][259]LogBlueprintUserMessages: [BP_Road_C_129] 860.0
+[2024.11.04-11.41.30:278][261]LogBlueprintUserMessages: [BP_Road_C_130] 862.0
+[2024.11.04-11.41.31:281][264]LogBlueprintUserMessages: [BP_Road_C_131] 864.0
+[2024.11.04-11.41.32:289][267]LogBlueprintUserMessages: [BP_Road_C_132] 866.0
+[2024.11.04-11.41.33:291][270]LogBlueprintUserMessages: [BP_Road_C_133] 868.0
+[2024.11.04-11.41.33:961][272]LogBlueprintUserMessages: [BP_Road_C_134] 870.0
+[2024.11.04-11.41.34:961][275]LogBlueprintUserMessages: [BP_Road_C_135] 872.0
+[2024.11.04-11.41.35:967][278]LogBlueprintUserMessages: [BP_Road_C_136] 874.0
+[2024.11.04-11.41.36:966][281]LogBlueprintUserMessages: [BP_Road_C_137] 876.0
+[2024.11.04-11.41.37:644][283]LogBlueprintUserMessages: [BP_Road_C_138] 878.0
+[2024.11.04-11.41.38:660][286]LogBlueprintUserMessages: [BP_Road_C_139] 880.0
+[2024.11.04-11.41.39:665][289]LogBlueprintUserMessages: [BP_Road_C_140] 882.0
+[2024.11.04-11.41.40:340][291]LogBlueprintUserMessages: [BP_Road_C_141] 884.0
+[2024.11.04-11.41.41:340][294]LogBlueprintUserMessages: [BP_Road_C_142] 886.0
+[2024.11.04-11.41.42:351][297]LogBlueprintUserMessages: [BP_Road_C_143] 888.0
+[2024.11.04-11.41.43:032][299]LogBlueprintUserMessages: [BP_Road_C_144] 890.0
+[2024.11.04-11.41.44:036][302]LogBlueprintUserMessages: [BP_Road_C_145] 892.0
+[2024.11.04-11.41.45:042][305]LogBlueprintUserMessages: [BP_Road_C_146] 894.0
+[2024.11.04-11.41.45:708][307]LogBlueprintUserMessages: [BP_Road_C_147] 896.0
+[2024.11.04-11.41.46:713][310]LogBlueprintUserMessages: [BP_Road_C_148] 898.0
+[2024.11.04-11.41.47:713][313]LogBlueprintUserMessages: [BP_Road_C_149] 900.0
+[2024.11.04-11.41.48:388][315]LogBlueprintUserMessages: [BP_Road_C_150] 902.0
+[2024.11.04-11.41.49:389][318]LogBlueprintUserMessages: [BP_Road_C_151] 904.0
+[2024.11.04-11.41.50:058][320]LogBlueprintUserMessages: [BP_Road_C_152] 906.0
+[2024.11.04-11.41.51:070][323]LogBlueprintUserMessages: [BP_Road_C_153] 908.0
+[2024.11.04-11.41.52:078][326]LogBlueprintUserMessages: [BP_Road_C_154] 910.0
+[2024.11.04-11.41.52:744][328]LogBlueprintUserMessages: [BP_Road_C_155] 912.0
+[2024.11.04-11.41.53:747][331]LogBlueprintUserMessages: [BP_Road_C_156] 914.0
+[2024.11.04-11.41.54:446][333]LogBlueprintUserMessages: [BP_Road_C_157] 916.0
+[2024.11.04-11.41.55:424][336]LogBlueprintUserMessages: [BP_Road_C_158] 918.0
+[2024.11.04-11.41.56:432][339]LogBlueprintUserMessages: [BP_Road_C_159] 920.0
+[2024.11.04-11.41.57:101][341]LogBlueprintUserMessages: [BP_Road_C_160] 922.0
+[2024.11.04-11.41.58:103][344]LogBlueprintUserMessages: [BP_Road_C_161] 924.0
+[2024.11.04-11.41.58:773][346]LogBlueprintUserMessages: [BP_Road_C_162] 926.0
+[2024.11.04-11.41.59:785][349]LogBlueprintUserMessages: [BP_Road_C_163] 928.0
+[2024.11.04-11.42.00:455][351]LogBlueprintUserMessages: [BP_Road_C_164] 930.0
+[2024.11.04-11.42.01:462][354]LogBlueprintUserMessages: [BP_Road_C_165] 932.0
+[2024.11.04-11.42.02:466][357]LogBlueprintUserMessages: [BP_Road_C_166] 934.0
+[2024.11.04-11.42.03:134][359]LogBlueprintUserMessages: [BP_Road_C_167] 936.0
+[2024.11.04-11.42.04:138][362]LogBlueprintUserMessages: [BP_Road_C_168] 938.0
+[2024.11.04-11.42.04:808][364]LogBlueprintUserMessages: [BP_Road_C_169] 940.0
+[2024.11.04-11.42.05:813][367]LogBlueprintUserMessages: [BP_Road_C_170] 942.0
+[2024.11.04-11.42.06:490][369]LogBlueprintUserMessages: [BP_Road_C_171] 944.0
+[2024.11.04-11.42.07:491][372]LogBlueprintUserMessages: [BP_Road_C_172] 946.0
+[2024.11.04-11.42.08:162][374]LogBlueprintUserMessages: [BP_Road_C_173] 948.0
+[2024.11.04-11.42.09:171][377]LogBlueprintUserMessages: [BP_Road_C_174] 950.0
+[2024.11.04-11.42.09:843][379]LogBlueprintUserMessages: [BP_Road_C_175] 952.0
+[2024.11.04-11.42.10:847][382]LogBlueprintUserMessages: [BP_Road_C_176] 954.0
+[2024.11.04-11.42.11:515][384]LogBlueprintUserMessages: [BP_Road_C_177] 956.0
+[2024.11.04-11.42.12:529][387]LogBlueprintUserMessages: [BP_Road_C_178] 958.0
+[2024.11.04-11.42.13:202][389]LogBlueprintUserMessages: [BP_Road_C_179] 960.0
+[2024.11.04-11.42.13:872][391]LogBlueprintUserMessages: [BP_Road_C_180] 962.0
+[2024.11.04-11.42.14:879][394]LogBlueprintUserMessages: [BP_Road_C_181] 964.0
+[2024.11.04-11.42.15:549][396]LogBlueprintUserMessages: [BP_Road_C_182] 966.0
+[2024.11.04-11.42.16:556][399]LogBlueprintUserMessages: [BP_Road_C_183] 968.0
+[2024.11.04-11.42.17:227][401]LogBlueprintUserMessages: [BP_Road_C_184] 970.0
+[2024.11.04-11.42.18:241][404]LogBlueprintUserMessages: [BP_Road_C_185] 972.0
+[2024.11.04-11.42.18:914][406]LogBlueprintUserMessages: [BP_Road_C_186] 974.0
+[2024.11.04-11.42.19:929][409]LogBlueprintUserMessages: [BP_Road_C_187] 976.0
+[2024.11.04-11.42.20:595][411]LogBlueprintUserMessages: [BP_Road_C_188] 978.0
+[2024.11.04-11.42.21:268][413]LogBlueprintUserMessages: [BP_Road_C_189] 980.0
+[2024.11.04-11.42.22:278][416]LogBlueprintUserMessages: [BP_Road_C_190] 982.0
+[2024.11.04-11.42.22:947][418]LogBlueprintUserMessages: [BP_Road_C_191] 984.0
+[2024.11.04-11.42.23:961][421]LogBlueprintUserMessages: [BP_Road_C_192] 986.0
+[2024.11.04-11.42.24:632][423]LogBlueprintUserMessages: [BP_Road_C_193] 988.0
+[2024.11.04-11.42.25:302][425]LogBlueprintUserMessages: [BP_Road_C_194] 990.0
+[2024.11.04-11.42.26:309][428]LogBlueprintUserMessages: [BP_Road_C_195] 992.0
+[2024.11.04-11.42.26:973][430]LogBlueprintUserMessages: [BP_Road_C_196] 994.0
+[2024.11.04-11.42.27:986][433]LogBlueprintUserMessages: [BP_Road_C_197] 996.0
+[2024.11.04-11.42.28:669][435]LogBlueprintUserMessages: [BP_Road_C_198] 998.0
+[2024.11.04-11.42.29:336][437]LogBlueprintUserMessages: [BP_Road_C_199] 1000.0
+[2024.11.04-11.42.30:337][440]LogBlueprintUserMessages: [BP_Road_C_200] 1002.0
+[2024.11.04-11.42.31:006][442]LogBlueprintUserMessages: [BP_Road_C_201] 1004.0
+[2024.11.04-11.42.31:681][444]LogBlueprintUserMessages: [BP_Road_C_202] 1006.0
+[2024.11.04-11.42.32:694][447]LogBlueprintUserMessages: [BP_Road_C_203] 1008.0
+[2024.11.04-11.42.33:364][449]LogBlueprintUserMessages: [BP_Road_C_204] 1010.0
+[2024.11.04-11.42.34:032][451]LogBlueprintUserMessages: [BP_Road_C_205] 1012.0
+[2024.11.04-11.42.35:032][454]LogBlueprintUserMessages: [BP_Road_C_206] 1014.0
+[2024.11.04-11.42.35:707][456]LogBlueprintUserMessages: [BP_Road_C_207] 1016.0
+[2024.11.04-11.42.36:381][458]LogBlueprintUserMessages: [BP_Road_C_208] 1018.0
+[2024.11.04-11.42.37:391][461]LogBlueprintUserMessages: [BP_Road_C_209] 1020.0
+[2024.11.04-11.42.38:064][463]LogBlueprintUserMessages: [BP_Road_C_210] 1022.0
+[2024.11.04-11.42.38:734][465]LogBlueprintUserMessages: [BP_Road_C_211] 1024.0
+[2024.11.04-11.42.39:741][468]LogBlueprintUserMessages: [BP_Road_C_212] 1026.0
+[2024.11.04-11.42.40:410][470]LogBlueprintUserMessages: [BP_Road_C_213] 1028.0
+[2024.11.04-11.42.41:082][472]LogBlueprintUserMessages: [BP_Road_C_214] 1030.0
+[2024.11.04-11.42.42:088][475]LogBlueprintUserMessages: [BP_Road_C_215] 1032.0
+[2024.11.04-11.42.42:768][477]LogBlueprintUserMessages: [BP_Road_C_216] 1034.0
+[2024.11.04-11.42.43:438][479]LogBlueprintUserMessages: [BP_Road_C_217] 1036.0
+[2024.11.04-11.42.44:105][481]LogBlueprintUserMessages: [BP_Road_C_218] 1038.0
+[2024.11.04-11.42.45:117][484]LogBlueprintUserMessages: [BP_Road_C_219] 1040.0
+[2024.11.04-11.42.45:792][486]LogBlueprintUserMessages: [BP_Road_C_220] 1042.0
+[2024.11.04-11.42.46:467][488]LogBlueprintUserMessages: [BP_Road_C_221] 1044.0
+[2024.11.04-11.42.47:132][490]LogBlueprintUserMessages: [BP_Road_C_222] 1046.0
+[2024.11.04-11.42.48:144][493]LogBlueprintUserMessages: [BP_Road_C_223] 1048.0
+[2024.11.04-11.42.48:816][495]LogBlueprintUserMessages: [BP_Road_C_224] 1050.0
+[2024.11.04-11.42.49:483][497]LogBlueprintUserMessages: [BP_Road_C_225] 1052.0
+[2024.11.04-11.42.50:156][499]LogBlueprintUserMessages: [BP_Road_C_226] 1054.0
+[2024.11.04-11.42.51:161][502]LogBlueprintUserMessages: [BP_Road_C_227] 1056.0
+[2024.11.04-11.42.51:832][504]LogBlueprintUserMessages: [BP_Road_C_228] 1058.0
+[2024.11.04-11.42.52:500][506]LogBlueprintUserMessages: [BP_Road_C_229] 1060.0
+[2024.11.04-11.42.53:171][508]LogBlueprintUserMessages: [BP_Road_C_230] 1062.0
+[2024.11.04-11.42.54:184][511]LogBlueprintUserMessages: [BP_Road_C_231] 1064.0
+[2024.11.04-11.42.54:855][513]LogBlueprintUserMessages: [BP_Road_C_232] 1066.0
+[2024.11.04-11.42.55:540][515]LogBlueprintUserMessages: [BP_Road_C_233] 1068.0
+[2024.11.04-11.42.56:187][517]LogBlueprintUserMessages: [BP_Road_C_234] 1070.0
+[2024.11.04-11.42.57:194][520]LogBlueprintUserMessages: [BP_Road_C_235] 1072.0
+[2024.11.04-11.42.57:868][522]LogBlueprintUserMessages: [BP_Road_C_236] 1074.0
+[2024.11.04-11.42.58:543][524]LogBlueprintUserMessages: [BP_Road_C_237] 1076.0
+[2024.11.04-11.42.59:215][526]LogBlueprintUserMessages: [BP_Road_C_238] 1078.0
+[2024.11.04-11.42.59:885][528]LogBlueprintUserMessages: [BP_Road_C_239] 1080.0
+[2024.11.04-11.43.00:896][531]LogBlueprintUserMessages: [BP_Road_C_240] 1082.0
+[2024.11.04-11.43.01:569][533]LogBlueprintUserMessages: [BP_Road_C_241] 1084.0
+[2024.11.04-11.43.02:236][535]LogBlueprintUserMessages: [BP_Road_C_242] 1086.0
+[2024.11.04-11.43.02:911][537]LogBlueprintUserMessages: [BP_Road_C_243] 1088.0
+[2024.11.04-11.43.03:587][539]LogBlueprintUserMessages: [BP_Road_C_244] 1090.0
+[2024.11.04-11.43.04:262][541]LogBlueprintUserMessages: [BP_Road_C_245] 1092.0
+[2024.11.04-11.43.05:262][544]LogBlueprintUserMessages: [BP_Road_C_246] 1094.0
+[2024.11.04-11.43.06:605][548]LogBlueprintUserMessages: [BP_Road_C_248] 1096.0
+[2024.11.04-11.43.07:278][550]LogBlueprintUserMessages: [BP_Road_C_249] 1098.0
+[2024.11.04-11.43.07:948][552]LogBlueprintUserMessages: [BP_Road_C_250] 1100.0
+[2024.11.04-11.43.08:617][554]LogBlueprintUserMessages: [BP_Road_C_251] 1102.0
+[2024.11.04-11.43.09:284][556]LogBlueprintUserMessages: [BP_Road_C_252] 1104.0
+[2024.11.04-11.43.10:290][559]LogBlueprintUserMessages: [BP_Road_C_253] 1106.0
+[2024.11.04-11.43.10:960][561]LogBlueprintUserMessages: [BP_Road_C_254] 1108.0
+[2024.11.04-11.43.11:626][563]LogBlueprintUserMessages: [BP_Road_C_255] 1110.0
+[2024.11.04-11.43.12:296][565]LogBlueprintUserMessages: [BP_Road_C_256] 1112.0
+[2024.11.04-11.43.12:964][567]LogBlueprintUserMessages: [BP_Road_C_257] 1114.0
+[2024.11.04-11.43.13:637][569]LogBlueprintUserMessages: [BP_Road_C_258] 1116.0
+[2024.11.04-11.43.14:312][571]LogBlueprintUserMessages: [BP_Road_C_259] 1118.0
+[2024.11.04-11.43.15:320][574]LogBlueprintUserMessages: [BP_Road_C_260] 1120.0
+[2024.11.04-11.43.15:990][576]LogBlueprintUserMessages: [BP_Road_C_261] 1122.0
+[2024.11.04-11.43.16:659][578]LogBlueprintUserMessages: [BP_Road_C_262] 1124.0
+[2024.11.04-11.43.17:327][580]LogBlueprintUserMessages: [BP_Road_C_263] 1126.0
+[2024.11.04-11.43.17:995][582]LogBlueprintUserMessages: [BP_Road_C_264] 1128.0
+[2024.11.04-11.43.18:660][584]LogBlueprintUserMessages: [BP_Road_C_265] 1130.0
+[2024.11.04-11.43.19:333][586]LogBlueprintUserMessages: [BP_Road_C_266] 1132.0
+[2024.11.04-11.43.20:005][588]LogBlueprintUserMessages: [BP_Road_C_267] 1134.0
+[2024.11.04-11.43.20:670][590]LogBlueprintUserMessages: [BP_Road_C_268] 1136.0
+[2024.11.04-11.43.21:345][592]LogBlueprintUserMessages: [BP_Road_C_269] 1138.0
+[2024.11.04-11.43.22:354][595]LogBlueprintUserMessages: [BP_Road_C_270] 1140.0
+[2024.11.04-11.43.23:023][597]LogBlueprintUserMessages: [BP_Road_C_271] 1142.0
+[2024.11.04-11.43.23:697][599]LogBlueprintUserMessages: [BP_Road_C_272] 1144.0
+[2024.11.04-11.43.24:363][601]LogBlueprintUserMessages: [BP_Road_C_273] 1146.0
+[2024.11.04-11.43.25:033][603]LogBlueprintUserMessages: [BP_Road_C_274] 1148.0
+[2024.11.04-11.43.25:703][605]LogBlueprintUserMessages: [BP_Road_C_275] 1150.0
+[2024.11.04-11.43.26:378][607]LogBlueprintUserMessages: [BP_Road_C_276] 1152.0
+[2024.11.04-11.43.27:046][609]LogBlueprintUserMessages: [BP_Road_C_277] 1154.0
+[2024.11.04-11.43.27:719][611]LogBlueprintUserMessages: [BP_Road_C_278] 1156.0
+[2024.11.04-11.43.28:386][613]LogBlueprintUserMessages: [BP_Road_C_279] 1158.0
+[2024.11.04-11.43.29:055][615]LogBlueprintUserMessages: [BP_Road_C_280] 1160.0
+[2024.11.04-11.43.29:731][617]LogBlueprintUserMessages: [BP_Road_C_281] 1162.0
+[2024.11.04-11.43.30:397][619]LogBlueprintUserMessages: [BP_Road_C_282] 1164.0
+[2024.11.04-11.43.31:065][621]LogBlueprintUserMessages: [BP_Road_C_283] 1166.0
+[2024.11.04-11.43.31:732][623]LogBlueprintUserMessages: [BP_Road_C_284] 1168.0
+[2024.11.04-11.43.32:404][625]LogBlueprintUserMessages: [BP_Road_C_285] 1170.0
+[2024.11.04-11.43.33:077][627]LogBlueprintUserMessages: [BP_Road_C_286] 1172.0
+[2024.11.04-11.43.33:749][629]LogBlueprintUserMessages: [BP_Road_C_287] 1174.0
+[2024.11.04-11.43.34:415][631]LogBlueprintUserMessages: [BP_Road_C_288] 1176.0
+[2024.11.04-11.43.35:088][633]LogBlueprintUserMessages: [BP_Road_C_289] 1178.0
+[2024.11.04-11.43.35:761][635]LogBlueprintUserMessages: [BP_Road_C_290] 1180.0
+[2024.11.04-11.43.36:432][637]LogBlueprintUserMessages: [BP_Road_C_291] 1182.0
+[2024.11.04-11.43.37:109][639]LogBlueprintUserMessages: [BP_Road_C_292] 1184.0
+[2024.11.04-11.43.37:781][641]LogBlueprintUserMessages: [BP_Road_C_293] 1186.0
+[2024.11.04-11.43.38:459][643]LogBlueprintUserMessages: [BP_Road_C_294] 1188.0
+[2024.11.04-11.43.39:124][645]LogBlueprintUserMessages: [BP_Road_C_295] 1190.0
+[2024.11.04-11.43.39:789][647]LogBlueprintUserMessages: [BP_Road_C_296] 1192.0
+[2024.11.04-11.43.40:455][649]LogBlueprintUserMessages: [BP_Road_C_297] 1194.0
+[2024.11.04-11.43.41:126][651]LogBlueprintUserMessages: [BP_Road_C_298] 1196.0
+[2024.11.04-11.43.41:795][653]LogBlueprintUserMessages: [BP_Road_C_299] 1198.0
+[2024.11.04-11.43.42:461][655]LogBlueprintUserMessages: [BP_Road_C_300] 1200.0
+[2024.11.04-11.43.43:129][657]LogBlueprintUserMessages: [BP_Road_C_301] 1202.0
+[2024.11.04-11.43.43:804][659]LogBlueprintUserMessages: [BP_Road_C_302] 1204.0
+[2024.11.04-11.43.44:479][661]LogBlueprintUserMessages: [BP_Road_C_303] 1206.0
+[2024.11.04-11.43.45:145][663]LogBlueprintUserMessages: [BP_Road_C_304] 1208.0
+[2024.11.04-11.43.45:824][665]LogBlueprintUserMessages: [BP_Road_C_305] 1210.0
+[2024.11.04-11.43.46:501][667]LogBlueprintUserMessages: [BP_Road_C_306] 1212.0
+[2024.11.04-11.43.47:168][669]LogBlueprintUserMessages: [BP_Road_C_307] 1214.0
+[2024.11.04-11.43.47:838][671]LogBlueprintUserMessages: [BP_Road_C_308] 1216.0
+[2024.11.04-11.43.48:508][673]LogBlueprintUserMessages: [BP_Road_C_309] 1218.0
+[2024.11.04-11.43.49:178][675]LogBlueprintUserMessages: [BP_Road_C_310] 1220.0
+[2024.11.04-11.43.49:845][677]LogBlueprintUserMessages: [BP_Road_C_311] 1222.0
+[2024.11.04-11.43.50:514][679]LogBlueprintUserMessages: [BP_Road_C_312] 1224.0
+[2024.11.04-11.43.51:189][681]LogBlueprintUserMessages: [BP_Road_C_313] 1226.0
+[2024.11.04-11.43.51:861][683]LogBlueprintUserMessages: [BP_Road_C_314] 1228.0
+[2024.11.04-11.43.52:195][684]LogBlueprintUserMessages: [BP_Road_C_315] 1230.0
+[2024.11.04-11.43.52:871][686]LogBlueprintUserMessages: [BP_Road_C_316] 1232.0
+[2024.11.04-11.43.53:545][688]LogBlueprintUserMessages: [BP_Road_C_317] 1234.0
+[2024.11.04-11.43.54:213][690]LogBlueprintUserMessages: [BP_Road_C_318] 1236.0
+[2024.11.04-11.43.54:880][692]LogBlueprintUserMessages: [BP_Road_C_319] 1238.0
+[2024.11.04-11.43.55:552][694]LogBlueprintUserMessages: [BP_Road_C_320] 1240.0
+[2024.11.04-11.43.56:223][696]LogBlueprintUserMessages: [BP_Road_C_321] 1242.0
+[2024.11.04-11.43.56:910][698]LogBlueprintUserMessages: [BP_Road_C_322] 1244.0
+[2024.11.04-11.43.57:565][700]LogBlueprintUserMessages: [BP_Road_C_323] 1246.0
+[2024.11.04-11.43.58:243][702]LogBlueprintUserMessages: [BP_Road_C_324] 1248.0
+[2024.11.04-11.43.58:915][704]LogBlueprintUserMessages: [BP_Road_C_325] 1250.0
+[2024.11.04-11.43.59:250][705]LogBlueprintUserMessages: [BP_Road_C_326] 1252.0
+[2024.11.04-11.43.59:915][707]LogBlueprintUserMessages: [BP_Road_C_327] 1254.0
+[2024.11.04-11.44.00:588][709]LogBlueprintUserMessages: [BP_Road_C_328] 1256.0
+[2024.11.04-11.44.01:260][711]LogBlueprintUserMessages: [BP_Road_C_329] 1258.0
+[2024.11.04-11.44.01:931][713]LogBlueprintUserMessages: [BP_Road_C_330] 1260.0
+[2024.11.04-11.44.02:606][715]LogBlueprintUserMessages: [BP_Road_C_331] 1262.0
+[2024.11.04-11.44.03:281][717]LogBlueprintUserMessages: [BP_Road_C_332] 1264.0
+[2024.11.04-11.44.03:953][719]LogBlueprintUserMessages: [BP_Road_C_333] 1266.0
+[2024.11.04-11.44.04:286][720]LogBlueprintUserMessages: [BP_Road_C_334] 1268.0
+[2024.11.04-11.44.04:964][722]LogBlueprintUserMessages: [BP_Road_C_335] 1270.0
+[2024.11.04-11.44.05:640][724]LogBlueprintUserMessages: [BP_Road_C_336] 1272.0
+[2024.11.04-11.44.06:315][726]LogBlueprintUserMessages: [BP_Road_C_337] 1274.0
+[2024.11.04-11.44.06:982][728]LogBlueprintUserMessages: [BP_Road_C_338] 1276.0
+[2024.11.04-11.44.07:648][730]LogBlueprintUserMessages: [BP_Road_C_339] 1278.0
+[2024.11.04-11.44.08:324][732]LogBlueprintUserMessages: [BP_Road_C_340] 1280.0
+[2024.11.04-11.44.08:662][733]LogBlueprintUserMessages: [BP_Road_C_341] 1282.0
+[2024.11.04-11.44.09:325][735]LogBlueprintUserMessages: [BP_Road_C_342] 1284.0
+[2024.11.04-11.44.09:994][737]LogBlueprintUserMessages: [BP_Road_C_343] 1286.0
+[2024.11.04-11.44.10:661][739]LogBlueprintUserMessages: [BP_Road_C_344] 1288.0
+[2024.11.04-11.44.11:332][741]LogBlueprintUserMessages: [BP_Road_C_345] 1290.0
+[2024.11.04-11.44.11:993][743]LogBlueprintUserMessages: [BP_Road_C_346] 1292.0
+[2024.11.04-11.44.12:663][745]LogBlueprintUserMessages: [BP_Road_C_347] 1294.0
+[2024.11.04-11.44.13:000][746]LogBlueprintUserMessages: [BP_Road_C_348] 1296.0
+[2024.11.04-11.44.13:665][748]LogBlueprintUserMessages: [BP_Road_C_349] 1298.0
+[2024.11.04-11.44.14:343][750]LogBlueprintUserMessages: [BP_Road_C_350] 1300.0
+[2024.11.04-11.44.15:011][752]LogBlueprintUserMessages: [BP_Road_C_351] 1302.0
+[2024.11.04-11.44.15:685][754]LogBlueprintUserMessages: [BP_Road_C_352] 1304.0
+[2024.11.04-11.44.16:025][755]LogBlueprintUserMessages: [BP_Road_C_353] 1306.0
+[2024.11.04-11.44.16:697][757]LogBlueprintUserMessages: [BP_Road_C_354] 1308.0
+[2024.11.04-11.44.17:374][759]LogBlueprintUserMessages: [BP_Road_C_355] 1310.0
+[2024.11.04-11.44.18:047][761]LogBlueprintUserMessages: [BP_Road_C_356] 1312.0
+[2024.11.04-11.44.18:714][763]LogBlueprintUserMessages: [BP_Road_C_357] 1314.0
+[2024.11.04-11.44.19:054][764]LogBlueprintUserMessages: [BP_Road_C_358] 1316.0
+[2024.11.04-11.44.19:720][766]LogBlueprintUserMessages: [BP_Road_C_359] 1318.0
+[2024.11.04-11.44.20:387][768]LogBlueprintUserMessages: [BP_Road_C_360] 1320.0
+[2024.11.04-11.44.21:053][770]LogBlueprintUserMessages: [BP_Road_C_361] 1322.0
+[2024.11.04-11.44.21:731][772]LogBlueprintUserMessages: [BP_Road_C_362] 1324.0
+[2024.11.04-11.44.22:064][773]LogBlueprintUserMessages: [BP_Road_C_363] 1326.0
+[2024.11.04-11.44.22:740][775]LogBlueprintUserMessages: [BP_Road_C_364] 1328.0
+[2024.11.04-11.44.23:409][777]LogBlueprintUserMessages: [BP_Road_C_365] 1330.0
+[2024.11.04-11.44.24:079][779]LogBlueprintUserMessages: [BP_Road_C_366] 1332.0
+[2024.11.04-11.44.24:753][781]LogBlueprintUserMessages: [BP_Road_C_367] 1334.0
+[2024.11.04-11.44.25:094][782]LogBlueprintUserMessages: [BP_Road_C_368] 1336.0
+[2024.11.04-11.44.25:764][784]LogBlueprintUserMessages: [BP_Road_C_369] 1338.0
+[2024.11.04-11.44.26:436][786]LogBlueprintUserMessages: [BP_Road_C_370] 1340.0
+[2024.11.04-11.44.27:104][788]LogBlueprintUserMessages: [BP_Road_C_371] 1342.0
+[2024.11.04-11.44.27:441][789]LogBlueprintUserMessages: [BP_Road_C_372] 1344.0
+[2024.11.04-11.44.28:110][791]LogBlueprintUserMessages: [BP_Road_C_373] 1346.0
+[2024.11.04-11.44.28:778][793]LogBlueprintUserMessages: [BP_Road_C_374] 1348.0
+[2024.11.04-11.44.29:456][795]LogBlueprintUserMessages: [BP_Road_C_375] 1350.0
+[2024.11.04-11.44.29:793][796]LogBlueprintUserMessages: [BP_Road_C_376] 1352.0
+[2024.11.04-11.44.30:470][798]LogBlueprintUserMessages: [BP_Road_C_377] 1354.0
+[2024.11.04-11.44.31:139][800]LogBlueprintUserMessages: [BP_Road_C_378] 1356.0
+[2024.11.04-11.44.31:807][802]LogBlueprintUserMessages: [BP_Road_C_379] 1358.0
+[2024.11.04-11.44.32:142][803]LogBlueprintUserMessages: [BP_Road_C_380] 1360.0
+[2024.11.04-11.44.32:814][805]LogBlueprintUserMessages: [BP_Road_C_381] 1362.0
+[2024.11.04-11.44.33:481][807]LogBlueprintUserMessages: [BP_Road_C_382] 1364.0
+[2024.11.04-11.44.34:151][809]LogBlueprintUserMessages: [BP_Road_C_383] 1366.0
+[2024.11.04-11.44.34:484][810]LogBlueprintUserMessages: [BP_Road_C_384] 1368.0
+[2024.11.04-11.44.35:149][812]LogBlueprintUserMessages: [BP_Road_C_385] 1370.0
+[2024.11.04-11.44.35:828][814]LogBlueprintUserMessages: [BP_Road_C_386] 1372.0
+[2024.11.04-11.44.36:162][815]LogBlueprintUserMessages: [BP_Road_C_387] 1374.0
+[2024.11.04-11.44.36:834][817]LogBlueprintUserMessages: [BP_Road_C_388] 1376.0
+[2024.11.04-11.44.37:505][819]LogBlueprintUserMessages: [BP_Road_C_389] 1378.0
+[2024.11.04-11.44.38:174][821]LogBlueprintUserMessages: [BP_Road_C_390] 1380.0
+[2024.11.04-11.44.38:508][822]LogBlueprintUserMessages: [BP_Road_C_391] 1382.0
+[2024.11.04-11.44.39:176][824]LogBlueprintUserMessages: [BP_Road_C_392] 1384.0
+[2024.11.04-11.44.39:849][826]LogBlueprintUserMessages: [BP_Road_C_393] 1386.0
+[2024.11.04-11.44.40:183][827]LogBlueprintUserMessages: [BP_Road_C_394] 1388.0
+[2024.11.04-11.44.40:850][829]LogBlueprintUserMessages: [BP_Road_C_395] 1390.0
+[2024.11.04-11.44.41:528][831]LogBlueprintUserMessages: [BP_Road_C_396] 1392.0
+[2024.11.04-11.44.42:202][833]LogBlueprintUserMessages: [BP_Road_C_397] 1394.0
+[2024.11.04-11.44.42:538][834]LogBlueprintUserMessages: [BP_Road_C_398] 1396.0
+[2024.11.04-11.44.43:205][836]LogBlueprintUserMessages: [BP_Road_C_399] 1398.0
+[2024.11.04-11.44.43:871][838]LogBlueprintUserMessages: [BP_Road_C_400] 1400.0
+[2024.11.04-11.44.44:226][839]LogBlueprintUserMessages: [BP_Road_C_401] 1402.0
+[2024.11.04-11.44.44:886][841]LogBlueprintUserMessages: [BP_Road_C_402] 1404.0
+[2024.11.04-11.44.45:562][843]LogBlueprintUserMessages: [BP_Road_C_403] 1406.0
+[2024.11.04-11.44.45:899][844]LogBlueprintUserMessages: [BP_Road_C_404] 1408.0
+[2024.11.04-11.44.46:578][846]LogBlueprintUserMessages: [BP_Road_C_405] 1410.0
+[2024.11.04-11.44.47:252][848]LogBlueprintUserMessages: [BP_Road_C_406] 1412.0
+[2024.11.04-11.44.47:589][849]LogBlueprintUserMessages: [BP_Road_C_407] 1414.0
+[2024.11.04-11.44.48:256][851]LogBlueprintUserMessages: [BP_Road_C_408] 1416.0
+[2024.11.04-11.44.48:934][853]LogBlueprintUserMessages: [BP_Road_C_409] 1418.0
+[2024.11.04-11.44.49:267][854]LogBlueprintUserMessages: [BP_Road_C_410] 1420.0
+[2024.11.04-11.44.49:933][856]LogBlueprintUserMessages: [BP_Road_C_411] 1422.0
+[2024.11.04-11.44.50:603][858]LogBlueprintUserMessages: [BP_Road_C_412] 1424.0
+[2024.11.04-11.44.50:942][859]LogBlueprintUserMessages: [BP_Road_C_413] 1426.0
+[2024.11.04-11.44.51:617][861]LogBlueprintUserMessages: [BP_Road_C_414] 1428.0
+[2024.11.04-11.44.52:288][863]LogBlueprintUserMessages: [BP_Road_C_415] 1430.0
+[2024.11.04-11.44.52:622][864]LogBlueprintUserMessages: [BP_Road_C_416] 1432.0
+[2024.11.04-11.44.53:293][866]LogBlueprintUserMessages: [BP_Road_C_417] 1434.0
+[2024.11.04-11.44.53:962][868]LogBlueprintUserMessages: [BP_Road_C_418] 1436.0
+[2024.11.04-11.44.54:292][869]LogBlueprintUserMessages: [BP_Road_C_419] 1438.0
+[2024.11.04-11.44.54:964][871]LogBlueprintUserMessages: [BP_Road_C_420] 1440.0
+[2024.11.04-11.44.55:634][873]LogBlueprintUserMessages: [BP_Road_C_421] 1442.0
+[2024.11.04-11.44.55:969][874]LogBlueprintUserMessages: [BP_Road_C_422] 1444.0
+[2024.11.04-11.44.56:643][876]LogBlueprintUserMessages: [BP_Road_C_423] 1446.0
+[2024.11.04-11.44.57:312][878]LogBlueprintUserMessages: [BP_Road_C_424] 1448.0
+[2024.11.04-11.44.57:645][879]LogBlueprintUserMessages: [BP_Road_C_425] 1450.0
+[2024.11.04-11.44.58:328][881]LogBlueprintUserMessages: [BP_Road_C_426] 1452.0
+[2024.11.04-11.44.58:651][882]LogBlueprintUserMessages: [BP_Road_C_427] 1454.0
+[2024.11.04-11.44.59:324][884]LogBlueprintUserMessages: [BP_Road_C_428] 1456.0
+[2024.11.04-11.44.59:999][886]LogBlueprintUserMessages: [BP_Road_C_429] 1458.0
+[2024.11.04-11.45.00:335][887]LogBlueprintUserMessages: [BP_Road_C_430] 1460.0
+[2024.11.04-11.45.01:009][889]LogBlueprintUserMessages: [BP_Road_C_431] 1462.0
+[2024.11.04-11.45.01:679][891]LogBlueprintUserMessages: [BP_Road_C_432] 1464.0
+[2024.11.04-11.45.02:017][892]LogBlueprintUserMessages: [BP_Road_C_433] 1466.0
+[2024.11.04-11.45.02:689][894]LogBlueprintUserMessages: [BP_Road_C_434] 1468.0
+[2024.11.04-11.45.03:018][895]LogBlueprintUserMessages: [BP_Road_C_435] 1470.0
+[2024.11.04-11.45.03:692][897]LogBlueprintUserMessages: [BP_Road_C_436] 1472.0
+[2024.11.04-11.45.04:366][899]LogBlueprintUserMessages: [BP_Road_C_437] 1474.0
+[2024.11.04-11.45.04:701][900]LogBlueprintUserMessages: [BP_Road_C_438] 1476.0
+[2024.11.04-11.45.05:369][902]LogBlueprintUserMessages: [BP_Road_C_439] 1478.0
+[2024.11.04-11.45.05:707][903]LogBlueprintUserMessages: [BP_Road_C_440] 1480.0
+[2024.11.04-11.45.06:384][905]LogBlueprintUserMessages: [BP_Road_C_441] 1482.0
+[2024.11.04-11.45.07:056][907]LogBlueprintUserMessages: [BP_Road_C_442] 1484.0
+[2024.11.04-11.45.07:396][908]LogBlueprintUserMessages: [BP_Road_C_443] 1486.0
+[2024.11.04-11.45.08:068][910]LogBlueprintUserMessages: [BP_Road_C_444] 1488.0
+[2024.11.04-11.45.08:401][911]LogBlueprintUserMessages: [BP_Road_C_445] 1490.0
+[2024.11.04-11.45.09:079][913]LogBlueprintUserMessages: [BP_Road_C_446] 1492.0
+[2024.11.04-11.45.09:406][914]LogBlueprintUserMessages: [BP_Road_C_447] 1494.0
+[2024.11.04-11.45.10:073][916]LogBlueprintUserMessages: [BP_Road_C_448] 1496.0
+[2024.11.04-11.45.10:743][918]LogBlueprintUserMessages: [BP_Road_C_449] 1498.0
+[2024.11.04-11.45.11:077][919]LogBlueprintUserMessages: [BP_Road_C_450] 1500.0
+[2024.11.04-11.45.11:752][921]LogBlueprintUserMessages: [BP_Road_C_451] 1502.0
+[2024.11.04-11.45.12:091][922]LogBlueprintUserMessages: [BP_Road_C_452] 1504.0
+[2024.11.04-11.45.12:772][924]LogBlueprintUserMessages: [BP_Road_C_453] 1506.0
+[2024.11.04-11.45.13:440][926]LogBlueprintUserMessages: [BP_Road_C_454] 1508.0
+[2024.11.04-11.45.13:772][927]LogBlueprintUserMessages: [BP_Road_C_455] 1510.0
+[2024.11.04-11.45.14:438][929]LogBlueprintUserMessages: [BP_Road_C_456] 1512.0
+[2024.11.04-11.45.14:776][930]LogBlueprintUserMessages: [BP_Road_C_457] 1514.0
+[2024.11.04-11.45.15:441][932]LogBlueprintUserMessages: [BP_Road_C_458] 1516.0
+[2024.11.04-11.45.15:778][933]LogBlueprintUserMessages: [BP_Road_C_459] 1518.0
+[2024.11.04-11.45.16:450][935]LogBlueprintUserMessages: [BP_Road_C_460] 1520.0
+[2024.11.04-11.45.16:787][936]LogBlueprintUserMessages: [BP_Road_C_461] 1522.0
+[2024.11.04-11.45.17:461][938]LogBlueprintUserMessages: [BP_Road_C_462] 1524.0
+[2024.11.04-11.45.18:130][940]LogBlueprintUserMessages: [BP_Road_C_463] 1526.0
+[2024.11.04-11.45.18:469][941]LogBlueprintUserMessages: [BP_Road_C_464] 1528.0
+[2024.11.04-11.45.19:138][943]LogBlueprintUserMessages: [BP_Road_C_465] 1530.0
+[2024.11.04-11.45.19:477][944]LogBlueprintUserMessages: [BP_Road_C_466] 1532.0
+[2024.11.04-11.45.20:148][946]LogBlueprintUserMessages: [BP_Road_C_467] 1534.0
+[2024.11.04-11.45.20:488][947]LogBlueprintUserMessages: [BP_Road_C_468] 1536.0
+[2024.11.04-11.45.21:161][949]LogBlueprintUserMessages: [BP_Road_C_469] 1538.0
+[2024.11.04-11.45.21:501][950]LogBlueprintUserMessages: [BP_Road_C_470] 1540.0
+[2024.11.04-11.45.22:166][952]LogBlueprintUserMessages: [BP_Road_C_471] 1542.0
+[2024.11.04-11.45.22:504][953]LogBlueprintUserMessages: [BP_Road_C_472] 1544.0
+[2024.11.04-11.45.23:180][955]LogBlueprintUserMessages: [BP_Road_C_473] 1546.0
+[2024.11.04-11.45.23:520][956]LogBlueprintUserMessages: [BP_Road_C_474] 1548.0
+[2024.11.04-11.45.24:184][958]LogBlueprintUserMessages: [BP_Road_C_475] 1550.0
+[2024.11.04-11.45.24:862][960]LogBlueprintUserMessages: [BP_Road_C_476] 1552.0
+[2024.11.04-11.45.25:193][961]LogBlueprintUserMessages: [BP_Road_C_477] 1554.0
+[2024.11.04-11.45.25:866][963]LogBlueprintUserMessages: [BP_Road_C_478] 1556.0
+[2024.11.04-11.45.26:200][964]LogBlueprintUserMessages: [BP_Road_C_479] 1558.0
+[2024.11.04-11.45.26:864][966]LogBlueprintUserMessages: [BP_Road_C_480] 1560.0
+[2024.11.04-11.45.27:198][967]LogBlueprintUserMessages: [BP_Road_C_481] 1562.0
+[2024.11.04-11.45.27:871][969]LogBlueprintUserMessages: [BP_Road_C_482] 1564.0
+[2024.11.04-11.45.28:204][970]LogBlueprintUserMessages: [BP_Road_C_483] 1566.0
+[2024.11.04-11.45.28:878][972]LogBlueprintUserMessages: [BP_Road_C_484] 1568.0
+[2024.11.04-11.45.29:213][973]LogBlueprintUserMessages: [BP_Road_C_485] 1570.0
+[2024.11.04-11.45.29:888][975]LogBlueprintUserMessages: [BP_Road_C_486] 1572.0
+[2024.11.04-11.45.30:228][976]LogBlueprintUserMessages: [BP_Road_C_487] 1574.0
+[2024.11.04-11.45.30:898][978]LogBlueprintUserMessages: [BP_Road_C_488] 1576.0
+[2024.11.04-11.45.31:232][979]LogBlueprintUserMessages: [BP_Road_C_489] 1578.0
+[2024.11.04-11.45.31:896][981]LogBlueprintUserMessages: [BP_Road_C_490] 1580.0
+[2024.11.04-11.45.32:232][982]LogBlueprintUserMessages: [BP_Road_C_491] 1582.0
+[2024.11.04-11.45.32:898][984]LogBlueprintUserMessages: [BP_Road_C_492] 1584.0
+[2024.11.04-11.45.33:236][985]LogBlueprintUserMessages: [BP_Road_C_493] 1586.0
+[2024.11.04-11.45.33:904][987]LogBlueprintUserMessages: [BP_Road_C_494] 1588.0
+[2024.11.04-11.45.34:237][988]LogBlueprintUserMessages: [BP_Road_C_495] 1590.0
+[2024.11.04-11.45.34:913][990]LogBlueprintUserMessages: [BP_Road_C_496] 1592.0
+[2024.11.04-11.45.35:247][991]LogBlueprintUserMessages: [BP_Road_C_497] 1594.0
+[2024.11.04-11.45.35:920][993]LogBlueprintUserMessages: [BP_Road_C_498] 1596.0
+[2024.11.04-11.45.36:250][994]LogBlueprintUserMessages: [BP_Road_C_499] 1598.0
+[2024.11.04-11.45.36:924][996]LogBlueprintUserMessages: [BP_Road_C_500] 1600.0
+[2024.11.04-11.45.37:259][997]LogBlueprintUserMessages: [BP_Road_C_501] 1602.0
+[2024.11.04-11.45.37:925][999]LogBlueprintUserMessages: [BP_Road_C_502] 1604.0
+[2024.11.04-11.45.38:262][  0]LogBlueprintUserMessages: [BP_Road_C_503] 1606.0
+[2024.11.04-11.45.38:933][  2]LogBlueprintUserMessages: [BP_Road_C_504] 1608.0
+[2024.11.04-11.45.39:270][  3]LogBlueprintUserMessages: [BP_Road_C_505] 1610.0
+[2024.11.04-11.45.39:607][  4]LogBlueprintUserMessages: [BP_Road_C_506] 1612.0
+[2024.11.04-11.45.40:281][  6]LogBlueprintUserMessages: [BP_Road_C_507] 1614.0
+[2024.11.04-11.45.40:614][  7]LogBlueprintUserMessages: [BP_Road_C_508] 1616.0
+[2024.11.04-11.45.41:278][  9]LogBlueprintUserMessages: [BP_Road_C_509] 1618.0
+[2024.11.04-11.45.41:618][ 10]LogBlueprintUserMessages: [BP_Road_C_510] 1620.0
+[2024.11.04-11.45.42:291][ 12]LogBlueprintUserMessages: [BP_Road_C_511] 1622.0
+[2024.11.04-11.45.42:623][ 13]LogBlueprintUserMessages: [BP_Road_C_512] 1624.0
+[2024.11.04-11.45.43:299][ 15]LogBlueprintUserMessages: [BP_Road_C_513] 1626.0
+[2024.11.04-11.45.43:634][ 16]LogBlueprintUserMessages: [BP_Road_C_514] 1628.0
+[2024.11.04-11.45.44:305][ 18]LogBlueprintUserMessages: [BP_Road_C_515] 1630.0
+[2024.11.04-11.45.44:647][ 19]LogBlueprintUserMessages: [BP_Road_C_516] 1632.0
+[2024.11.04-11.45.44:979][ 20]LogBlueprintUserMessages: [BP_Road_C_517] 1634.0
+[2024.11.04-11.45.45:654][ 22]LogBlueprintUserMessages: [BP_Road_C_518] 1636.0
+[2024.11.04-11.45.45:987][ 23]LogBlueprintUserMessages: [BP_Road_C_519] 1638.0
+[2024.11.04-11.45.46:664][ 25]LogBlueprintUserMessages: [BP_Road_C_520] 1640.0
+[2024.11.04-11.45.47:002][ 26]LogBlueprintUserMessages: [BP_Road_C_521] 1642.0
+[2024.11.04-11.45.47:678][ 28]LogBlueprintUserMessages: [BP_Road_C_522] 1644.0
+[2024.11.04-11.45.48:018][ 29]LogBlueprintUserMessages: [BP_Road_C_523] 1646.0
+[2024.11.04-11.45.48:686][ 31]LogBlueprintUserMessages: [BP_Road_C_524] 1648.0
+[2024.11.04-11.45.49:019][ 32]LogBlueprintUserMessages: [BP_Road_C_525] 1650.0
+[2024.11.04-11.45.49:356][ 33]LogBlueprintUserMessages: [BP_Road_C_526] 1652.0
+[2024.11.04-11.45.50:022][ 35]LogBlueprintUserMessages: [BP_Road_C_527] 1654.0
+[2024.11.04-11.45.50:355][ 36]LogBlueprintUserMessages: [BP_Road_C_528] 1656.0
+[2024.11.04-11.45.51:026][ 38]LogBlueprintUserMessages: [BP_Road_C_529] 1658.0
+[2024.11.04-11.45.51:359][ 39]LogBlueprintUserMessages: [BP_Road_C_530] 1660.0
+[2024.11.04-11.45.52:030][ 41]LogBlueprintUserMessages: [BP_Road_C_531] 1662.0
+[2024.11.04-11.45.52:363][ 42]LogBlueprintUserMessages: [BP_Road_C_532] 1664.0
+[2024.11.04-11.45.52:697][ 43]LogBlueprintUserMessages: [BP_Road_C_533] 1666.0
+[2024.11.04-11.45.53:359][ 45]LogBlueprintUserMessages: [BP_Road_C_534] 1668.0
+[2024.11.04-11.45.53:623][ 58]LogBlueprintUserMessages: [BP_Road_C_535] 1670.0
+[2024.11.04-11.45.54:095][112]LogBlueprintUserMessages: [BP_Road_C_536] 1672.0
+[2024.11.04-11.45.54:569][168]LogBlueprintUserMessages: [BP_Road_C_537] 1674.0
+[2024.11.04-11.45.55:045][224]LogBlueprintUserMessages: [BP_Road_C_538] 1676.0
+[2024.11.04-11.45.55:520][281]LogBlueprintUserMessages: [BP_Road_C_539] 1678.0
+[2024.11.04-11.45.55:993][337]LogBlueprintUserMessages: [BP_Road_C_540] 1680.0
+[2024.11.04-11.45.56:460][392]LogBlueprintUserMessages: [BP_Road_C_541] 1682.0
+[2024.11.04-11.45.56:932][448]LogBlueprintUserMessages: [BP_Road_C_542] 1684.0
+[2024.11.04-11.45.57:403][503]LogBlueprintUserMessages: [BP_Road_C_543] 1686.0
+[2024.11.04-11.45.57:874][559]LogBlueprintUserMessages: [BP_Road_C_544] 1688.0
+[2024.11.04-11.45.58:347][615]LogBlueprintUserMessages: [BP_Road_C_545] 1690.0
+[2024.11.04-11.45.58:817][671]LogBlueprintUserMessages: [BP_Road_C_546] 1692.0
+[2024.11.04-11.45.59:285][727]LogBlueprintUserMessages: [BP_Road_C_547] 1694.0
+[2024.11.04-11.45.59:747][780]LogBlueprintUserMessages: [BP_Road_C_548] 1696.0
+[2024.11.04-11.46.00:217][836]LogBlueprintUserMessages: [BP_Road_C_549] 1698.0
+[2024.11.04-11.46.00:702][894]LogBlueprintUserMessages: [BP_Road_C_550] 1700.0
+[2024.11.04-11.46.01:153][945]LogBlueprintUserMessages: [BP_Road_C_551] 1702.0
+[2024.11.04-11.46.02:188][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.46.02:188][ 65]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.46.02:188][ 65]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.46.02:188][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.46.02:197][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.46.02:204][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.46.02:209][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-11.46.02:209][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.46.02:210][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.46.02:213][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.46.02:215][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.04-11.46.02:269][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.11.04-11.46.03:169][164]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.46.03:176][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.46.03:176][164]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:46:03)
+[2024.11.04-11.46.03:176][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.46.03:179][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2024.11.04-11.46.03:181][164]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.46.03:181][164]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2024.11.04-11.46.03:181][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004910s)
+[2024.11.04-11.46.03:188][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.04-11.46.03:188][164]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.46.03:188][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.46.03:188][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.46.03:189][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.46.03:189][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.46.03:189][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.46.03:189][164]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.46.03:192][164]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.46.03:192][164]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.46.03:199][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.46.03:199][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.46.03:201][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.46.03:201][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.46.03:201][164]LogInit: FAudioDevice initialized.
+[2024.11.04-11.46.03:201][164]LogAudio: Display: Audio Device (ID: 7) registered with world 'TheMainGameMap'.
+[2024.11.04-11.46.03:214][164]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.46.03:215][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.46.03
+[2024.11.04-11.46.03:215][164]LogWorld: Bringing up level for play took: 0.000369
+[2024.11.04-11.46.03:215][164]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.11.04-11.46.03:222][164]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.46.03:222][164]PIE: Server logged in
+[2024.11.04-11.46.03:223][164]PIE: Play in editor total start time 0,048 seconds.
+[2024.11.04-11.46.04:513][316]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.46.05:831][473]LogBlueprintUserMessages: [BP_Road_C_1] 604.0
+[2024.11.04-11.46.07:145][630]LogBlueprintUserMessages: [BP_Road_C_2] 606.0
+[2024.11.04-11.46.08:427][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.46.08:427][779]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.46.08:428][779]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.46.08:428][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.46.08:437][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.46.08:444][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.46.08:450][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.46.08:450][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.46.08:451][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.46.08:455][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.04-11.46.08:507][781]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.11.04-11.46.15:568][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheRoad/BP_Road/BP_Road.BP_Road
+[2024.11.04-11.46.15:732][417]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.11.04-11.46.18:107][551]LogRenderer: Reallocating scene render targets to support 1496x920 Format 10 NumSamples 1 (Frame:1).
+[2024.11.04-11.48.32:197][761]BlueprintLog: New page: Compile BP_Road
+[2024.11.04-11.48.32:331][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.11.04-11.48.33:411][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.11.04-11.48.33:445][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/BP_Road/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset" SILENT=true
+[2024.11.04-11.48.33:465][849]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/BP_RoadF036DFE448FC8697955C629CB630FC87.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset'
+[2024.11.04-11.48.33:483][849]AssetCheck: New page: Asset Save: BP_Road
+[2024.11.04-11.48.33:483][849]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/BP_Road/BP_Road.BP_Road
+[2024.11.04-11.49.04:680][307]BlueprintLog: New page: Compile BP_Road
+[2024.11.04-11.49.04:744][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.11.04-11.49.08:876][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.11.04-11.49.08:915][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/BP_Road/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset" SILENT=true
+[2024.11.04-11.49.08:935][735]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/BP_RoadA57E412B427C64DCCE9EE9B219442976.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset'
+[2024.11.04-11.49.08:956][735]AssetCheck: New page: Asset Save: BP_Road
+[2024.11.04-11.49.08:956][735]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/BP_Road/BP_Road.BP_Road
+[2024.11.04-11.49.09:802][810]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.49.09:809][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.49.09:809][810]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:49:09)
+[2024.11.04-11.49.09:836][810]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.49.09:838][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2024.11.04-11.49.09:840][810]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.49.09:840][810]LogPlayLevel: PIE: World Init took: (0.001914s)
+[2024.11.04-11.49.09:840][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004346s)
+[2024.11.04-11.49.09:860][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.04-11.49.09:861][810]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.49.09:861][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.49.09:861][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.49.09:861][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.49.09:861][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.49.09:861][810]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.49.09:864][810]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.49.09:864][810]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.49.09:871][810]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.49.09:871][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.49.09:871][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.49.09:871][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.49.09:872][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.49.09:872][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.49.09:872][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.49.09:873][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.49.09:873][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.49.09:873][810]LogInit: FAudioDevice initialized.
+[2024.11.04-11.49.09:873][810]LogAudio: Display: Audio Device (ID: 8) registered with world 'TheMainGameMap'.
+[2024.11.04-11.49.09:886][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.49.09:887][810]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.49.09
+[2024.11.04-11.49.09:887][810]LogWorld: Bringing up level for play took: 0.000411
+[2024.11.04-11.49.09:887][810]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.11.04-11.49.09:894][810]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.49.09:894][810]PIE: Server logged in
+[2024.11.04-11.49.09:895][810]PIE: Play in editor total start time 0,087 seconds.
+[2024.11.04-11.49.10:987][936]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.49.12:311][ 94]LogBlueprintUserMessages: [BP_Road_C_1] 604.0
+[2024.11.04-11.49.13:623][248]LogBlueprintUserMessages: [BP_Road_C_2] 606.0
+[2024.11.04-11.49.14:930][403]LogBlueprintUserMessages: [BP_Road_C_3] 608.0
+[2024.11.04-11.49.16:235][559]LogBlueprintUserMessages: [BP_Road_C_4] 610.0
+[2024.11.04-11.49.17:537][715]LogBlueprintUserMessages: [BP_Road_C_5] 612.0
+[2024.11.04-11.49.18:827][868]LogBlueprintUserMessages: [BP_Road_C_6] 614.0
+[2024.11.04-11.49.20:119][ 22]LogBlueprintUserMessages: [BP_Road_C_7] 616.0
+[2024.11.04-11.49.21:411][176]LogBlueprintUserMessages: [BP_Road_C_8] 618.0
+[2024.11.04-11.49.22:691][329]LogBlueprintUserMessages: [BP_Road_C_9] 620.0
+[2024.11.04-11.49.23:977][483]LogBlueprintUserMessages: [BP_Road_C_10] 622.0
+[2024.11.04-11.49.25:252][636]LogBlueprintUserMessages: [BP_Road_C_11] 624.0
+[2024.11.04-11.49.26:519][788]LogBlueprintUserMessages: [BP_Road_C_12] 626.0
+[2024.11.04-11.49.27:788][939]LogBlueprintUserMessages: [BP_Road_C_13] 628.0
+[2024.11.04-11.49.29:050][ 89]LogBlueprintUserMessages: [BP_Road_C_14] 630.0
+[2024.11.04-11.49.30:311][239]LogBlueprintUserMessages: [BP_Road_C_15] 632.0
+[2024.11.04-11.49.31:563][387]LogBlueprintUserMessages: [BP_Road_C_16] 634.0
+[2024.11.04-11.49.32:820][535]LogBlueprintUserMessages: [BP_Road_C_17] 636.0
+[2024.11.04-11.49.34:066][684]LogBlueprintUserMessages: [BP_Road_C_18] 638.0
+[2024.11.04-11.49.35:311][833]LogBlueprintUserMessages: [BP_Road_C_19] 640.0
+[2024.11.04-11.49.36:546][981]LogBlueprintUserMessages: [BP_Road_C_20] 642.0
+[2024.11.04-11.49.37:786][129]LogBlueprintUserMessages: [BP_Road_C_21] 644.0
+[2024.11.04-11.49.39:012][276]LogBlueprintUserMessages: [BP_Road_C_22] 646.0
+[2024.11.04-11.49.40:241][423]LogBlueprintUserMessages: [BP_Road_C_23] 648.0
+[2024.11.04-11.49.41:467][569]LogBlueprintUserMessages: [BP_Road_C_24] 650.0
+[2024.11.04-11.49.42:691][715]LogBlueprintUserMessages: [BP_Road_C_25] 652.0
+[2024.11.04-11.49.43:904][860]LogBlueprintUserMessages: [BP_Road_C_26] 654.0
+[2024.11.04-11.49.45:117][  5]LogBlueprintUserMessages: [BP_Road_C_27] 656.0
+[2024.11.04-11.49.46:327][150]LogBlueprintUserMessages: [BP_Road_C_28] 658.0
+[2024.11.04-11.49.47:528][294]LogBlueprintUserMessages: [BP_Road_C_29] 660.0
+[2024.11.04-11.49.48:737][439]LogBlueprintUserMessages: [BP_Road_C_30] 662.0
+[2024.11.04-11.49.49:935][580]LogBlueprintUserMessages: [BP_Road_C_31] 664.0
+[2024.11.04-11.49.51:126][722]LogBlueprintUserMessages: [BP_Road_C_32] 666.0
+[2024.11.04-11.49.52:314][864]LogBlueprintUserMessages: [BP_Road_C_33] 668.0
+[2024.11.04-11.49.53:503][  6]LogBlueprintUserMessages: [BP_Road_C_34] 670.0
+[2024.11.04-11.49.54:688][147]LogBlueprintUserMessages: [BP_Road_C_35] 672.0
+[2024.11.04-11.49.55:868][288]LogBlueprintUserMessages: [BP_Road_C_36] 674.0
+[2024.11.04-11.49.57:051][429]LogBlueprintUserMessages: [BP_Road_C_37] 676.0
+[2024.11.04-11.49.58:217][567]LogBlueprintUserMessages: [BP_Road_C_38] 678.0
+[2024.11.04-11.49.59:387][707]LogBlueprintUserMessages: [BP_Road_C_39] 680.0
+[2024.11.04-11.50.00:559][847]LogBlueprintUserMessages: [BP_Road_C_40] 682.0
+[2024.11.04-11.50.01:719][986]LogBlueprintUserMessages: [BP_Road_C_41] 684.0
+[2024.11.04-11.50.02:878][125]LogBlueprintUserMessages: [BP_Road_C_42] 686.0
+[2024.11.04-11.50.04:037][261]LogBlueprintUserMessages: [BP_Road_C_43] 688.0
+[2024.11.04-11.50.05:187][399]LogBlueprintUserMessages: [BP_Road_C_44] 690.0
+[2024.11.04-11.50.06:342][537]LogBlueprintUserMessages: [BP_Road_C_45] 692.0
+[2024.11.04-11.50.07:486][674]LogBlueprintUserMessages: [BP_Road_C_46] 694.0
+[2024.11.04-11.50.08:628][811]LogBlueprintUserMessages: [BP_Road_C_47] 696.0
+[2024.11.04-11.50.09:772][948]LogBlueprintUserMessages: [BP_Road_C_48] 698.0
+[2024.11.04-11.50.10:908][ 84]LogBlueprintUserMessages: [BP_Road_C_49] 700.0
+[2024.11.04-11.50.12:035][219]LogBlueprintUserMessages: [BP_Road_C_50] 702.0
+[2024.11.04-11.50.13:170][355]LogBlueprintUserMessages: [BP_Road_C_51] 704.0
+[2024.11.04-11.50.14:291][489]LogBlueprintUserMessages: [BP_Road_C_52] 706.0
+[2024.11.04-11.50.15:418][624]LogBlueprintUserMessages: [BP_Road_C_53] 708.0
+[2024.11.04-11.50.16:536][758]LogBlueprintUserMessages: [BP_Road_C_54] 710.0
+[2024.11.04-11.50.17:657][892]LogBlueprintUserMessages: [BP_Road_C_55] 712.0
+[2024.11.04-11.50.18:769][ 22]LogBlueprintUserMessages: [BP_Road_C_56] 714.0
+[2024.11.04-11.50.19:878][155]LogBlueprintUserMessages: [BP_Road_C_57] 716.0
+[2024.11.04-11.50.20:986][287]LogBlueprintUserMessages: [BP_Road_C_58] 718.0
+[2024.11.04-11.50.22:091][419]LogBlueprintUserMessages: [BP_Road_C_59] 720.0
+[2024.11.04-11.50.23:194][551]LogBlueprintUserMessages: [BP_Road_C_60] 722.0
+[2024.11.04-11.50.24:296][683]LogBlueprintUserMessages: [BP_Road_C_61] 724.0
+[2024.11.04-11.50.25:391][814]LogBlueprintUserMessages: [BP_Road_C_62] 726.0
+[2024.11.04-11.50.26:485][945]LogBlueprintUserMessages: [BP_Road_C_63] 728.0
+[2024.11.04-11.50.27:570][ 74]LogBlueprintUserMessages: [BP_Road_C_64] 730.0
+[2024.11.04-11.50.28:659][204]LogBlueprintUserMessages: [BP_Road_C_65] 732.0
+[2024.11.04-11.50.29:745][334]LogBlueprintUserMessages: [BP_Road_C_66] 734.0
+[2024.11.04-11.50.30:823][463]LogBlueprintUserMessages: [BP_Road_C_67] 736.0
+[2024.11.04-11.50.31:904][592]LogBlueprintUserMessages: [BP_Road_C_68] 738.0
+[2024.11.04-11.50.32:975][720]LogBlueprintUserMessages: [BP_Road_C_69] 740.0
+[2024.11.04-11.50.34:051][849]LogBlueprintUserMessages: [BP_Road_C_70] 742.0
+[2024.11.04-11.50.35:118][977]LogBlueprintUserMessages: [BP_Road_C_71] 744.0
+[2024.11.04-11.50.36:186][105]LogBlueprintUserMessages: [BP_Road_C_72] 746.0
+[2024.11.04-11.50.37:246][232]LogBlueprintUserMessages: [BP_Road_C_73] 748.0
+[2024.11.04-11.50.38:306][359]LogBlueprintUserMessages: [BP_Road_C_74] 750.0
+[2024.11.04-11.50.39:367][486]LogBlueprintUserMessages: [BP_Road_C_75] 752.0
+[2024.11.04-11.50.40:420][612]LogBlueprintUserMessages: [BP_Road_C_76] 754.0
+[2024.11.04-11.50.41:471][738]LogBlueprintUserMessages: [BP_Road_C_77] 756.0
+[2024.11.04-11.50.42:523][864]LogBlueprintUserMessages: [BP_Road_C_78] 758.0
+[2024.11.04-11.50.43:568][989]LogBlueprintUserMessages: [BP_Road_C_79] 760.0
+[2024.11.04-11.50.44:612][114]LogBlueprintUserMessages: [BP_Road_C_80] 762.0
+[2024.11.04-11.50.45:654][239]LogBlueprintUserMessages: [BP_Road_C_81] 764.0
+[2024.11.04-11.50.46:692][363]LogBlueprintUserMessages: [BP_Road_C_82] 766.0
+[2024.11.04-11.50.47:728][487]LogBlueprintUserMessages: [BP_Road_C_83] 768.0
+[2024.11.04-11.50.48:755][610]LogBlueprintUserMessages: [BP_Road_C_84] 770.0
+[2024.11.04-11.50.49:794][734]LogBlueprintUserMessages: [BP_Road_C_85] 772.0
+[2024.11.04-11.50.50:814][855]LogBlueprintUserMessages: [BP_Road_C_86] 774.0
+[2024.11.04-11.50.51:845][977]LogBlueprintUserMessages: [BP_Road_C_87] 776.0
+[2024.11.04-11.50.52:865][ 99]LogBlueprintUserMessages: [BP_Road_C_88] 778.0
+[2024.11.04-11.50.53:886][220]LogBlueprintUserMessages: [BP_Road_C_89] 780.0
+[2024.11.04-11.50.54:898][341]LogBlueprintUserMessages: [BP_Road_C_90] 782.0
+[2024.11.04-11.50.55:618][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.50.55:618][424]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.50.55:618][424]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.55:618][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.55:625][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.50.55:634][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.55:654][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.50.55:654][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.50.55:655][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.50.55:662][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.11.04-11.50.55:718][426]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.11.04-11.50.56:462][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.11.04-11.50.56:527][504]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.56:527][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.56:553][504]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.56:553][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.56:577][504]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.56:577][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.56:617][504]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.56:617][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.56:640][504]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.56:640][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.50.56:700][504]LogSlate: Window 'EndlessRunner2 - Unreal Editor' being destroyed
+[2024.11.04-11.50.56:869][505]Cmd: QUIT_EDITOR
+[2024.11.04-11.50.56:869][505]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.11.04-11.50.56:874][505]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.11.04-11.50.56:880][505]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.11.04-11.50.56:880][505]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.11.04-11.50.56:880][505]LogAudio: Display: Audio Device unregistered from world 'TheMainGameMap'.
+[2024.11.04-11.50.56:880][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.50.56:881][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.50.56:890][505]LogAudio: Display: Audio Device Manager Shutdown
+[2024.11.04-11.50.56:891][505]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.04-11.50.56:896][505]LogExit: Preparing to exit.
+[2024.11.04-11.50.57:882][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.11.04-11.50.58:042][505]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.58:046][505]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.58:051][505]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.58:055][505]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.58:155][505]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.11.04-11.50.58:164][505]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.50.58:165][505]LogExit: Editor shut down
+[2024.11.04-11.50.58:166][505]LogExit: Transaction tracking system shut down
+[2024.11.04-11.50.58:600][505]LogExit: Object subsystem successfully closed.
+[2024.11.04-11.50.59:391][505]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.50.59:392][505]LogShaderCompilers: Display: Total job queries 136, among them cache hits 70 (51.47%)
+[2024.11.04-11.50.59:392][505]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 26 distinct outputs (39.39%)
+[2024.11.04-11.50.59:392][505]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2024.11.04-11.50.59:392][505]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.50.59:417][505]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module TextureEditor (880)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (878)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (870)
+[2024.11.04-11.50.59:464][505]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module TextureAlignMode (848)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module BspMode (846)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module GeometryMode (844)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2024.11.04-11.50.59:466][505]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module OpenXRInput (834)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module GooglePADEditor (832)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (830)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2024.11.04-11.50.59:467][505]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (806)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (796)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (794)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (792)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (790)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (788)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (786)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2024.11.04-11.50.59:468][505]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2024.11.04-11.50.59:469][505]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2024.11.04-11.50.59:470][505]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2024.11.04-11.50.59:470][505]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2024.11.04-11.50.59:470][505]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2024.11.04-11.50.59:470][505]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2024.11.04-11.50.59:470][505]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2024.11.04-11.50.59:966][505]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2024.11.04-11.50.59:966][505]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2024.11.04-11.50.59:966][505]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2024.11.04-11.50.59:966][505]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2024.11.04-11.50.59:967][505]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2024.11.04-11.50.59:967][505]MemoryProfiler: Shutdown
+[2024.11.04-11.50.59:967][505]NetworkingProfiler: Shutdown
+[2024.11.04-11.50.59:967][505]LoadingProfiler: Shutdown
+[2024.11.04-11.50.59:967][505]TimingProfiler: Shutdown
+[2024.11.04-11.50.59:967][505]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2024.11.04-11.50.59:967][505]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2024.11.04-11.50.59:968][505]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2024.11.04-11.50.59:968][505]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2024.11.04-11.50.59:969][505]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2024.11.04-11.50.59:969][505]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2024.11.04-11.50.59:970][505]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2024.11.04-11.51.00:095][505]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2024.11.04-11.51.00:096][505]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2024.11.04-11.51.00:096][505]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2024.11.04-11.51.00:096][505]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2024.11.04-11.51.00:096][505]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2024.11.04-11.51.00:096][505]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2024.11.04-11.51.00:115][505]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2024.11.04-11.51.00:127][505]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2024.11.04-11.51.00:130][505]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2024.11.04-11.51.00:130][505]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2024.11.04-11.51.00:131][505]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2024.11.04-11.51.00:134][505]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2024.11.04-11.51.00:135][505]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2024.11.04-11.51.00:187][505]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2024.11.04-11.51.00:187][505]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2024.11.04-11.51.00:187][505]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2024.11.04-11.51.00:187][505]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2024.11.04-11.51.00:188][505]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2024.11.04-11.51.00:188][505]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2024.11.04-11.51.00:188][505]LogModuleManager: Shutting down and abandoning module OculusEditor (594)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module OculusInput (592)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module PluginBrowser (590)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (588)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (586)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (584)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module CurveEditorTools (582)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (580)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module CryptoKeys (578)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module SynthesisEditor (572)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module Synthesis (570)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (568)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (566)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module ScreenshotTools (564)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module OpenXREditor (562)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (560)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module GooglePAD (558)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module EditableMesh (556)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (554)
+[2024.11.04-11.51.00:189][505]LogModuleManager: Shutting down and abandoning module CableComponent (552)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AudioCapture (550)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (549)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (546)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AssetTags (544)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (542)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AppleImageUtils (540)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module AndroidPermission (538)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (536)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (534)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MediaCompositing (532)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module ImgMedia (530)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module TemplateSequence (528)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (526)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (524)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (522)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (520)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (518)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (516)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (514)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (512)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (510)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MotoSynth (508)
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (506)
+[2024.11.04-11.51.00:190][505]LogOpenImageDenoise: OIDN shutting down
+[2024.11.04-11.51.00:190][505]LogModuleManager: Shutting down and abandoning module MeshConversion (504)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module DynamicMesh (502)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (500)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometricObjects (498)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (496)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (495)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (492)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (490)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (488)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (486)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (484)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module FractureEditor (482)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (479)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (476)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module BackChannel (474)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (472)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module AutomationUtils (470)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module AlembicImporter (468)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module AlembicLibrary (467)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCache (466)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (465)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (460)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (456)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2024.11.04-11.51.00:191][505]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module PluginUtils (444)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2024.11.04-11.51.00:192][505]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (410)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (408)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module FacialAnimation (406)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module DataValidation (404)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module SoundFields (402)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module SignificanceManager (400)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (398)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (396)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (394)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (390)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (388)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (386)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2024.11.04-11.51.00:350][505]LogModuleManager: Shutting down and abandoning module UdpMessaging (382)
+[2024.11.04-11.51.00:451][505]LogModuleManager: Shutting down and abandoning module TcpMessaging (380)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module ActorSequence (378)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (376)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module Niagara (374)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module SignalProcessing (373)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module NiagaraEditor (371)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module NiagaraCore (368)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (364)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2024.11.04-11.51.00:552][505]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.11.04-11.51.00:552][505]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2024.11.04-11.51.00:568][505]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2024.11.04-11.51.00:571][505]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2024.11.04-11.51.00:572][505]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2024.11.04-11.51.00:573][505]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.11.04-11.51.00:574][505]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module Core (248)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2024.11.04-11.51.00:576][505]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2024.11.04-11.51.00:577][505]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2024.11.04-11.51.00:578][505]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.11.04-11.51.00:579][505]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2024.11.04-11.51.00:579][505]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2024.11.04-11.51.00:579][505]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2024.11.04-11.51.00:579][505]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2024.11.04-11.51.00:579][505]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2024.11.04-11.51.00:580][505]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2024.11.04-11.51.00:583][505]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2024.11.04-11.51.00:584][505]LogHMD: Freeing OpenVRDLLHandle.
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2024.11.04-11.51.00:584][505]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2024.11.04-11.51.00:584][505]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2024.11.04-11.51.00:585][505]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2024.11.04-11.51.00:585][505]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2024.11.04-11.51.00:622][505]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2024.11.04-11.51.00:622][505]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.04-11.51.00:622][505]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE61BF118-4594-866C-44CB-85BBB303F244%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3c46d4ce4429c69468614a8d66ef49da%7Cdfbe91eefa534635964bb521c7484a3d%7Ca1c0ccb4-a394-4ca8-bd49-5a5dded4b2f2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.11.04-11.51.00:622][505]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.11.04-11.51.00:651][505]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2024.11.04-11.51.00:655][505]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2024.11.04-11.51.00:662][505]LogModuleManager: Shutting down and abandoning module Media (73)
+[2024.11.04-11.51.00:663][505]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2024.11.04-11.51.00:664][505]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2024.11.04-11.51.00:664][505]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2024.11.04-11.51.00:664][505]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module MLSDK (58)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.11.04-11.51.00:668][505]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.11.04-11.51.00:668][505]LogXGEController: Cleaning working directory: C:/Users/letsg/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.11.04-11.51.00:669][505]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.04-11.51.00:670][505]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.04-11.51.00:671][505]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.04-11.51.00:671][505]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.04-11.51.00:671][505]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.11.04-11.51.00:688][505]LogD3D11RHI: Shutdown
+[2024.11.04-11.51.00:688][505]LogD3D11RHI: CleanupD3DDevice
+[2024.11.04-11.51.00:691][505]LogExit: Exiting.
+[2024.11.04-11.51.00:695][505]Log file closed, 11/04/24 14:51:00
