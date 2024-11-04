@@ -1071,3 +1071,197 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.04-11.20.29:615][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.11.04-11.20.29:619][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2024.11.04-11.20.29:662][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.11.04-11.20.56:968][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.11.04-11.20.57:517][608]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.20.57:527][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.20.57:527][608]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:20:57)
+[2024.11.04-11.20.57:527][608]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.20.57:529][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001757s)
+[2024.11.04-11.20.57:531][608]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.20.57:531][608]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2024.11.04-11.20.57:531][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004033s)
+[2024.11.04-11.20.57:537][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.04-11.20.57:538][608]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.20.57:538][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.20.57:538][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.20.57:538][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.20.57:539][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.20.57:539][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.20.57:539][608]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.20.57:542][608]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.20.57:542][608]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.20.57:548][608]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.20.57:548][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.20.57:548][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.20.57:548][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.20.57:549][608]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.20.57:549][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.20.57:549][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.20.57:550][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.20.57:550][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.20.57:550][608]LogInit: FAudioDevice initialized.
+[2024.11.04-11.20.57:550][608]LogAudio: Display: Audio Device (ID: 3) registered with world 'TheMainGameMap'.
+[2024.11.04-11.20.57:561][608]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.20.57:562][608]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.20.57
+[2024.11.04-11.20.57:562][608]LogWorld: Bringing up level for play took: 0.000376
+[2024.11.04-11.20.57:562][608]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.11.04-11.20.57:568][608]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.20.57:569][608]PIE: Server logged in
+[2024.11.04-11.20.57:569][608]PIE: Play in editor total start time 0,043 seconds.
+[2024.11.04-11.20.58:825][753]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.21.00:137][908]LogBlueprintUserMessages: [BP_Road_C_1] 604.0
+[2024.11.04-11.21.01:449][ 59]LogBlueprintUserMessages: [BP_Road_C_2] 606.0
+[2024.11.04-11.21.01:736][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.21.01:736][ 88]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.21.01:736][ 88]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.21.01:736][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.21.01:746][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.21.01:753][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.21.01:759][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.21.01:759][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.21.01:760][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.21.01:764][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.04-11.21.01:805][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.11.04-11.21.08:287][852]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.11.04-11.21.12:744][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.04-11.21.14:037][367]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.04-11.21.14:051][367]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.04-11.21.14:141][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-11.21.14:159][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.04-11.21.14:165][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-11.21.25:741][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.04-11.21.27:002][596]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.04-11.21.27:119][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.04-11.21.27:126][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.04-11.21.27:131][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-11.21.27:137][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.21.27:143][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.04-11.21.27:149][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-11.21.27:155][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.04-11.21.27:161][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.04-11.21.27:181][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.04-11.21.27:187][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.04-11.21.48:395][998]LogContentBrowser: Attempting asset rename: TheRoad2 -> TheRoadMaterials
+[2024.11.04-11.21.49:563][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd2FAE3EE6443B0979A18C8883C05E9AEE.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor.uasset'
+[2024.11.04-11.21.49:583][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd2F18B2964423C25CCE628E91157DFDCC.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor_Mat.uasset'
+[2024.11.04-11.21.49:662][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd7A73D1D6496ABE1B5440648A183CB8D1.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High.uasset'
+[2024.11.04-11.21.49:812][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd35DC5A25402AEC420C91618F8096FE91.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_AO.uasset'
+[2024.11.04-11.21.49:995][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd95C8ECB8444CA8C37D2494AE8DE61F43.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Bump.uasset'
+[2024.11.04-11.21.50:194][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd50C0DE3D45D0926205789689CDDB6306.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Cavity.uasset'
+[2024.11.04-11.21.50:291][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd44FBF9C4453A964148841199880E736B.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement.uasset'
+[2024.11.04-11.21.50:311][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd079A8A274D8724472F9FE6B9BEDEF9AA.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement_Mat.uasset'
+[2024.11.04-11.21.50:441][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetdB576DAB34FA7D606A9005F8D223CF6D8.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Gloss.uasset'
+[2024.11.04-11.21.50:782][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd1B21145243BC9587281291960B63007C.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Normal.uasset'
+[2024.11.04-11.21.50:908][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetd63441D554F1E5E2D062094A6B846C832.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Roughness.uasset'
+[2024.11.04-11.21.51:063][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Modular_Concrete_Median_vcrnfetdF55CBF334AA8F956B01038B668F781F3.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Specular.uasset'
+[2024.11.04-11.21.51:186][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.04-11.21.51:191][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-11.21.51:197][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-11.21.51:203][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.04-11.21.51:208][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-11.21.51:213][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.04-11.21.51:218][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.04-11.21.51:224][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-11.21.51:229][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.04-11.21.51:235][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.04-11.21.51:240][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.04-11.21.51:245][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-11.21.51:262][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.04-11.21.51:268][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.04-11.21.51:328][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/Road001_4K-JPG/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset" SILENT=true
+[2024.11.04-11.21.51:348][998]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/BP_Road1CD76E4F41EC6BA39982439CF724855D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/Road001_4K-JPG/BP_Road.uasset'
+[2024.11.04-11.21.51:387][998]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/Road001_4K-JPG/BP_Road.BP_Road
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor.Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Material /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor_Mat.Modular_Concrete_Median_vcrnfetdw_High_4K_BaseColor_Mat
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating StaticMesh /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High.Modular_Concrete_Median_vcrnfetdw_High
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Specular.Modular_Concrete_Median_vcrnfetdw_High_4K_Specular
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Roughness.Modular_Concrete_Median_vcrnfetdw_High_4K_Roughness
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Normal.Modular_Concrete_Median_vcrnfetdw_High_4K_Normal
+[2024.11.04-11.21.51:387][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Gloss.Modular_Concrete_Median_vcrnfetdw_High_4K_Gloss
+[2024.11.04-11.21.51:388][998]LogContentValidation: Display: Validating Material /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement_Mat.Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement_Mat
+[2024.11.04-11.21.51:388][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement.Modular_Concrete_Median_vcrnfetdw_High_4K_Displacement
+[2024.11.04-11.21.51:388][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Cavity.Modular_Concrete_Median_vcrnfetdw_High_4K_Cavity
+[2024.11.04-11.21.51:388][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_Bump.Modular_Concrete_Median_vcrnfetdw_High_4K_Bump
+[2024.11.04-11.21.51:388][998]LogContentValidation: Display: Validating Texture2D /Game/TheRoadMaterials/Modular_Concrete_Median_vcrnfetdw_High_4K_AO.Modular_Concrete_Median_vcrnfetdw_High_4K_AO
+[2024.11.04-11.22.07:320][775]LogContentBrowser: Attempting asset rename: Road001_4K-JPG -> BP_Road
+[2024.11.04-11.22.07:349][775]LogMetaData: Removing '/Game/TheRoad/BP_Road/BP_Road.BP_Road:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TheRoad/Road001_4K-JPG/BP_Road.PackageMetaData'
+[2024.11.04-11.22.07:349][775]LogMetaData: Removing '/Game/TheRoad/BP_Road/BP_Road.BP_Road_C' ref from Metadata '/Game/TheRoad/Road001_4K-JPG/BP_Road.PackageMetaData'
+[2024.11.04-11.22.07:349][775]LogMetaData: Removing '/Game/TheRoad/BP_Road/BP_Road.SKEL_BP_Road_C:BndEvt__BP_Road_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/TheRoad/Road001_4K-JPG/BP_Road.PackageMetaData'
+[2024.11.04-11.22.07:349][775]LogMetaData: Removing '/Game/TheRoad/BP_Road/BP_Road.SKEL_BP_Road_C:UserConstructionScript' ref from Metadata '/Game/TheRoad/Road001_4K-JPG/BP_Road.PackageMetaData'
+[2024.11.04-11.22.07:349][775]LogMetaData: Removing '/Game/TheRoad/BP_Road/BP_Road.SKEL_BP_Road_C' ref from Metadata '/Game/TheRoad/Road001_4K-JPG/BP_Road.PackageMetaData'
+[2024.11.04-11.22.07:394][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheRoad/BP_Road/BP_Road" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset" SILENT=true
+[2024.11.04-11.22.07:416][775]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/BP_Road7856AC5E4050BEE0F95CD58484E9D145.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/TheRoad/BP_Road/BP_Road.uasset'
+[2024.11.04-11.22.07:486][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.04-11.22.07:501][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.04-11.22.07:507][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.04-11.22.07:543][775]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonGameMode8AE96EB344E097B35F3CE2822B7AB3C8.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2024.11.04-11.22.07:578][775]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.22.07:578][775]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2024.11.04-11.22.07:579][775]LogContentValidation: Display: Validating Blueprint /Game/TheRoad/BP_Road/BP_Road.BP_Road
+[2024.11.04-11.22.11:016][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-11.22.11:641][225]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.04-11.22.11:649][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.04-11.22.11:650][225]LogPlayLevel: [PlayLevel] Compiling ThirdPersonGameMode before play...
+[2024.11.04-11.22.11:655][225]LogPlayLevel: [PlayLevel] Compiling BP_Road before play...
+[2024.11.04-11.22.11:671][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.04-11.22.11:671][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 22 ms (2 blueprints)
+[2024.11.04-11.22.11:671][225]PIE: New page: PIE session: TheMainGameMap (4 нояб. 2024 г., 17:22:11)
+[2024.11.04-11.22.11:706][225]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.22.11:708][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2024.11.04-11.22.11:709][225]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.11.04-11.22.11:710][225]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2024.11.04-11.22.11:710][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003958s)
+[2024.11.04-11.22.11:716][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.04-11.22.11:716][225]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.22.11:716][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.22.11:716][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.22.11:717][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.22.11:717][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.22.11:717][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.22.11:717][225]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.04-11.22.11:720][225]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.04-11.22.11:720][225]LogAudioMixer: Display: 1: FrontRight
+[2024.11.04-11.22.11:726][225]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.11.04-11.22.11:726][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.22.11:726][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.22.11:727][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.22.11:727][225]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.04-11.22.11:727][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.04-11.22.11:727][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.04-11.22.11:728][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.04-11.22.11:728][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.04-11.22.11:728][225]LogInit: FAudioDevice initialized.
+[2024.11.04-11.22.11:728][225]LogAudio: Display: Audio Device (ID: 4) registered with world 'TheMainGameMap'.
+[2024.11.04-11.22.11:736][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.11.04-11.22.11:738][225]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.11.04-14.22.11
+[2024.11.04-11.22.11:738][225]LogWorld: Bringing up level for play took: 0.000513
+[2024.11.04-11.22.11:739][225]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.11.04-11.22.11:745][225]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.11.04-11.22.11:745][225]PIE: Server logged in
+[2024.11.04-11.22.11:746][225]PIE: Play in editor total start time 0,098 seconds.
+[2024.11.04-11.22.12:937][366]LogBlueprintUserMessages: [BP_Road_C_0] 602.0
+[2024.11.04-11.22.14:254][524]LogBlueprintUserMessages: [BP_Road_C_1] 604.0
+[2024.11.04-11.22.15:297][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.22.15:297][644]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.11.04-11.22.15:297][644]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.22.15:298][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.22.15:306][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.22.15:314][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.22.15:319][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.22.15:319][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.22.15:321][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.04-11.22.15:325][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.04-11.22.15:371][646]LogPlayLevel: Display: Destroying online subsystem :Context_7
