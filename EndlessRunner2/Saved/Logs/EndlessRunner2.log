@@ -3278,3 +3278,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.07-10.09.31:419][322]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Pause_Widget3B923AA0478281B6D51FC0B8C440E5E7.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/GameOverObjects/Pause/Pause_Widget.uasset'
 [2024.12.07-10.09.31:438][322]AssetCheck: New page: Asset Save: Pause_Widget
 [2024.12.07-10.09.31:439][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameOverObjects/Pause/Pause_Widget.Pause_Widget
+[2024.12.07-10.54.40:980][402]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-10.54.40:980][402]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-11.07.06:277][562]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-11.07.06:277][562]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-11.23.41:751][544]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-11.23.41:751][544]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.07-11.23.43:638][702]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
