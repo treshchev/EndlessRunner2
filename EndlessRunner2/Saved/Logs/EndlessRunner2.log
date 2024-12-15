@@ -1653,3 +1653,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.15-09.30.19:649][838]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter046743E945061704E15AD1BEE345A451.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2024.12.15-09.30.19:669][838]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2024.12.15-09.30.19:669][838]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.15-09.33.26:903][553]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.15-09.34.08:098][560]BlueprintLog: New page: Compile PointsWidget
+[2024.12.15-09.34.08:155][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.12.15-09.34.09:200][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.12.15-09.34.09:238][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.15-09.34.09:254][654]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget10478A3D4F18C0726D570CBD23109560.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.15-09.34.09:281][654]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.15-09.34.09:281][654]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.15-09.34.31:834][614]BlueprintLog: New page: Compile PointsWidget
+[2024.12.15-09.34.31:907][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2024.12.15-09.34.32:778][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2024.12.15-09.34.32:806][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.15-09.34.32:822][687]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget34066EF947101B9DC95F25B4D6ACDA02.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.15-09.34.32:840][687]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.15-09.34.32:840][687]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.15-09.34.50:030][672]BlueprintLog: New page: Compile PointsWidget
+[2024.12.15-09.34.50:112][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2024.12.15-09.34.51:314][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.12.15-09.34.51:339][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.15-09.34.51:357][788]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidgetE1A32C9B4CF0F32C2CB9B28DE1D6F58D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.15-09.34.51:375][788]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.15-09.34.51:375][788]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.15-09.35.29:053][335]BlueprintLog: New page: Compile PointsWidget
+[2024.12.15-09.35.29:058][335]LogBlueprint: Error: [AssetLog] C:\Users\letsg\Documents\GitHub\EndlessRunner2\EndlessRunner2\Content\Widgets\PointsWidget.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveRecord_BP  to imply a specific type.
+[2024.12.15-09.35.29:058][335]LogBlueprint: Error: [AssetLog] C:\Users\letsg\Documents\GitHub\EndlessRunner2\EndlessRunner2\Content\Widgets\PointsWidget.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.12.15-09.35.29:124][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
