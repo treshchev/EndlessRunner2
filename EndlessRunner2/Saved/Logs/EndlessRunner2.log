@@ -1334,3 +1334,1108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.15-10.09.11:090][536]AssetCheck: New page: Asset Save: GameOver_Widget
 [2024.12.15-10.09.11:090][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameOverObjects/GameOver_Widget.GameOver_Widget
 [2024.12.15-10.09.26:283][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameOverObjects/SaveRecord_BP/SaveRecord_BP.SaveRecord_BP
+[2024.12.15-10.10.44:584][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.15-10.10.46:891][242]LogSlate: Took 0.007283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.15-10.11.45:700][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2024.12.15-10.14.13:729][781]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.12.15-10.14.13:822][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.12.15-10.14.15:128][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.12.15-10.14.15:258][888]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter28474D7243ACB67F4EF8A18621E5C861.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.12.15-10.14.15:279][888]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.12.15-10.14.15:279][888]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60B955D6-4718-047A-E32D-1DB387156AE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3c46d4ce4429c69468614a8d66ef49da%7Cdfbe91eefa534635964bb521c7484a3d%7Ca1c0ccb4-a394-4ca8-bd49-5a5dded4b2f2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20cb3da7eb0 [can pipeline])
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.29.63) port 443 (#0))
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 9 (Closing connection 0)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: 0000020D30944F00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.12.15-10.16.31:315][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60B955D6-4718-047A-E32D-1DB387156AE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3c46d4ce4429c69468614a8d66ef49da%7Cdfbe91eefa534635964bb521c7484a3d%7Ca1c0ccb4-a394-4ca8-bd49-5a5dded4b2f2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.15-10.18.16:349][ 63]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.12.15-10.18.16:437][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.12.15-10.18.17:907][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.12.15-10.18.17:992][203]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter103F281F46CAFF3D17F147BAF9C88A37.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.12.15-10.18.18:019][203]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.12.15-10.18.18:019][203]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.15-10.19.30:113][863]LogEditorTransaction: Undo Move Node
+[2024.12.15-10.20.32:825][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2024.12.15-10.20.32:826][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/TheMainGameMap' took 0.038
+[2024.12.15-10.20.32:826][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([4] browsable assets)...
+[2024.12.15-10.20.32:841][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2024.12.15-10.20.32:853][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2024.12.15-10.20.32:853][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2024.12.15-10.20.32:896][216]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter_Auto279C2D572424511526700289E6DDA6DAB.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2024.12.15-10.20.32:898][216]LogFileHelpers: Auto-saving content packages took 0.072
+[2024.12.15-10.20.41:992][258]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.12.15-10.20.42:066][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.12.15-10.21.22:917][539]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.15-10.22.10:868][ 94]BlueprintLog: New page: Compile PointsWidget
+[2024.12.15-10.22.10:925][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2024.12.15-10.22.12:430][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.12.15-10.22.12:544][251]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter6BF75D0C44499841472AE09BC8A38139.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.12.15-10.22.12:546][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.15-10.22.12:565][251]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget29A28DB1437220206364849932552334.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.15-10.22.12:587][251]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.15-10.22.12:587][251]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.15-10.22.12:587][251]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.15-10.23.41:517][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2024.12.15-10.23.41:525][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-10.23.41:525][ 46]PIE: New page: PIE session: TheMainGameMap (15 дек. 2024 г., 16:23:41)
+[2024.12.15-10.23.41:525][ 46]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.23.41:527][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2024.12.15-10.23.41:528][ 46]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.23.41:529][ 46]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2024.12.15-10.23.41:529][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003962s)
+[2024.12.15-10.23.41:568][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.12.15-10.23.41:570][ 46]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.15-10.23.41:570][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-10.23.41:570][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-10.23.41:570][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-10.23.41:570][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-10.23.41:570][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.15-10.23.41:575][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.15-10.23.41:575][ 46]LogAudioMixer: Display: 1: FrontRight
+[2024.12.15-10.23.41:581][ 46]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.15-10.23.41:582][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.15-10.23.41:584][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.15-10.23.41:584][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.15-10.23.41:584][ 46]LogInit: FAudioDevice initialized.
+[2024.12.15-10.23.41:584][ 46]LogAudio: Display: Audio Device (ID: 5) registered with world 'TheMainGameMap'.
+[2024.12.15-10.23.41:648][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.23.41:649][ 46]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.23.41:650][ 46]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.23.41
+[2024.12.15-10.23.41:650][ 46]LogWorld: Bringing up level for play took: 0.000551
+[2024.12.15-10.23.41:651][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.12.15-10.23.41:661][ 46]PIE: Server logged in
+[2024.12.15-10.23.41:661][ 46]PIE: Play in editor total start time 0,138 seconds.
+[2024.12.15-10.23.41:668][ 46]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:690][ 47]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2024.12.15-10.23.41:702][ 47]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:729][ 48]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:745][ 49]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:758][ 50]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:768][ 51]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:781][ 52]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:792][ 53]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:802][ 54]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:813][ 55]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:823][ 56]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:834][ 57]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:845][ 58]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:856][ 59]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:866][ 60]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:877][ 61]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:887][ 62]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:896][ 63]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:907][ 64]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:917][ 65]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:928][ 66]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:938][ 67]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:948][ 68]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:957][ 69]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:968][ 70]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:978][ 71]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:987][ 72]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.41:996][ 73]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:005][ 74]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:015][ 75]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:024][ 76]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:033][ 77]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:044][ 78]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:053][ 79]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:061][ 80]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:071][ 81]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:081][ 82]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:090][ 83]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:101][ 84]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:111][ 85]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:120][ 86]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:131][ 87]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:141][ 88]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:150][ 89]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:160][ 90]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:170][ 91]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:179][ 92]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:189][ 93]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:199][ 94]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:209][ 95]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:218][ 96]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:228][ 97]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:237][ 98]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:247][ 99]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:257][100]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:266][101]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:275][102]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:285][103]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:295][104]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:304][105]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:314][106]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:324][107]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:333][108]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:342][109]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:352][110]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:361][111]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:372][112]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:381][113]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:390][114]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:398][115]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:408][116]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:417][117]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:427][118]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:437][119]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:447][120]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:455][121]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:465][122]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:474][123]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:483][124]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:494][125]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:502][126]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:511][127]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:520][128]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:529][129]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:537][130]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:547][131]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:558][132]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:568][133]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:578][134]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:587][135]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:597][136]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:607][137]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:617][138]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:626][139]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:636][140]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:646][141]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:655][142]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:665][143]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:674][144]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:684][145]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:694][146]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:703][147]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:712][148]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:722][149]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:732][150]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:744][151]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:752][152]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:762][153]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:771][154]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:780][155]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:789][156]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:799][157]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:807][158]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:817][159]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:828][160]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:837][161]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:847][162]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:856][163]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:866][164]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:875][165]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:884][166]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:894][167]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:903][168]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:913][169]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:922][170]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:931][171]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:941][172]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:951][173]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:960][174]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:969][175]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:978][176]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:986][177]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.42:995][178]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:003][179]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:013][180]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:021][181]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:030][182]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:039][183]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:047][184]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:056][185]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:065][186]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:074][187]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:083][188]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:091][189]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:101][190]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:111][191]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:120][192]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:130][193]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:138][194]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:148][195]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:158][196]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:168][197]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:178][198]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:186][199]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:196][200]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:204][201]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:214][202]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:222][203]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:232][204]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:240][205]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:250][206]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:258][207]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:267][208]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:277][209]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:286][210]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:295][211]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:304][212]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:314][213]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:323][214]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:332][215]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:342][216]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:351][217]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:361][218]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:369][219]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:379][220]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:387][221]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:397][222]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:405][223]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:414][224]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:423][225]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:433][226]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:442][227]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:451][228]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:459][229]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:468][230]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:478][231]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:486][232]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:496][233]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:504][234]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:513][235]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:522][236]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:532][237]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:541][238]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:550][239]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:559][240]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:568][241]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:578][242]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:587][243]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:596][244]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:604][245]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:613][246]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:623][247]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:632][248]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:641][249]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:650][250]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:659][251]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:668][252]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:678][253]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:686][254]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:695][255]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:704][256]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:713][257]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:722][258]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:731][259]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:742][260]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:752][261]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:761][262]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:770][263]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:780][264]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:789][265]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:798][266]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:808][267]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:817][268]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:827][269]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:836][270]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:847][271]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:856][272]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:866][273]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:875][274]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:884][275]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:893][276]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:901][277]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:911][278]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:919][279]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:929][280]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:938][281]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:947][282]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:956][283]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:965][284]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:975][285]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:984][286]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.43:993][287]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:001][288]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:011][289]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:020][290]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:029][291]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:037][292]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:046][293]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:055][294]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:065][295]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:074][296]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:083][297]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:093][298]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:101][299]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:111][300]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:120][301]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:128][302]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:138][303]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:147][304]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:154][305]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:164][306]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:173][307]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:182][308]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:191][309]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:200][310]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:210][311]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:219][312]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:228][313]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:236][314]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:246][315]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:254][316]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:263][317]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:272][318]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:282][319]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:290][320]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:299][321]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:308][322]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:318][323]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:327][324]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:335][325]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:345][326]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:355][327]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:364][328]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:373][329]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:382][330]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:391][331]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:401][332]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:410][333]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:419][334]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:428][335]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:437][336]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:447][337]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:455][338]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:464][339]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:473][340]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:482][341]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:491][342]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:500][343]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:510][344]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:519][345]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:528][346]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:536][347]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:546][348]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:554][349]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:564][350]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:574][351]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:583][352]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:592][353]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:601][354]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:610][355]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:619][356]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:629][357]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:637][358]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:647][359]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:655][360]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:664][361]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:673][362]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:682][363]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:691][364]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:700][365]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:709][366]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:719][367]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:728][368]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:736][369]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:746][370]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:755][371]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:763][372]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:772][373]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:782][374]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:791][375]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:801][376]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:812][377]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:822][378]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:831][379]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:840][380]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:850][381]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:860][382]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:868][383]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:878][384]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:886][385]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:895][386]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:903][387]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:914][388]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:922][389]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:932][390]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:941][391]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:950][392]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:960][393]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:968][394]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:979][395]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:987][396]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.44:996][397]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:005][398]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:014][399]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:023][400]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:032][401]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:041][402]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:051][403]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:060][404]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:068][405]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:079][406]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:089][407]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:098][408]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:107][409]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:116][410]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:126][411]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:135][412]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:144][413]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:153][414]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:162][415]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:170][416]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:179][417]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:187][418]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:197][419]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:205][420]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:215][421]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:225][422]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:235][423]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:245][424]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:252][425]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:262][426]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:270][427]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:280][428]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:288][429]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:298][430]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:307][431]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:316][432]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:326][433]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:334][434]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:344][435]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:352][436]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:361][437]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:370][438]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:380][439]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:388][440]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:397][441]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:406][442]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:415][443]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:425][444]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:434][445]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:444][446]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:453][447]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:461][448]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:471][449]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:480][450]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:490][451]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:499][452]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:509][453]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:518][454]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:527][455]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:536][456]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:546][457]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:554][458]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:563][459]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:572][460]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:581][461]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:590][462]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:599][463]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:609][464]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:618][465]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:628][466]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:636][467]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:646][468]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:654][469]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:663][470]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:672][471]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:681][472]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:690][473]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:699][474]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:708][475]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:718][476]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:727][477]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:735][478]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:745][479]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:754][480]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:763][481]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:772][482]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:781][483]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:790][484]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:799][485]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:808][486]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:818][487]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:827][488]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:835][489]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:846][490]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:854][491]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:863][492]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:872][493]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:883][494]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:893][495]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:902][496]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:912][497]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:921][498]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:930][499]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:939][500]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:949][501]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:958][502]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:967][503]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:977][504]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:985][505]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.45:994][506]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:003][507]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:013][508]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:020][509]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:030][510]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:039][511]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:048][512]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:058][513]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:067][514]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:076][515]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:085][516]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:094][517]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:102][518]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:112][519]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:119][520]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:130][521]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:138][522]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:147][523]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:156][524]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:165][525]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:174][526]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:183][527]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:191][528]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:200][529]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:209][530]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:218][531]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:227][532]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:236][533]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:245][534]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:254][535]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:263][536]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:271][537]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:280][538]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:289][539]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:297][540]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:307][541]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:317][542]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:325][543]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:334][544]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:343][545]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:352][546]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:360][547]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:369][548]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:379][549]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:389][550]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:398][551]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:407][552]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:417][553]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:426][554]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:435][555]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:445][556]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:453][557]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:462][558]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:471][559]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:479][560]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:488][561]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:497][562]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:505][563]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:516][564]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:524][565]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:535][566]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:546][567]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:553][568]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:563][569]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:571][570]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:581][571]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:590][572]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:599][573]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:609][574]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:619][575]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:629][576]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:638][577]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:648][578]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:657][579]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:666][580]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:675][581]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:684][582]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:694][583]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:703][584]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:711][585]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:720][586]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:729][587]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:738][588]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:747][589]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:757][590]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:767][591]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:775][592]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:784][593]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:795][594]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:803][595]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:812][596]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:821][597]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:830][598]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:839][599]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:848][600]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:858][601]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:867][602]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:877][603]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:886][604]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:896][605]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:904][606]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:914][607]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:923][608]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:932][609]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:941][610]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:950][611]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:960][612]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:969][613]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:979][614]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:988][615]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.46:997][616]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:007][617]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:015][618]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:025][619]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:034][620]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:044][621]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:052][622]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:061][623]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:070][624]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:079][625]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:088][626]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:098][627]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:106][628]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:115][629]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:124][630]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:134][631]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:143][632]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:152][633]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:162][634]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:171][635]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:181][636]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:189][637]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:199][638]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:208][639]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:217][640]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:228][641]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:237][642]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:245][643]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:255][644]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:264][645]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:272][646]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:281][647]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:325][648]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:335][649]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:344][650]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:353][651]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:362][652]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:371][653]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:380][654]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:389][655]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:400][656]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:409][657]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:419][658]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:429][659]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:437][660]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:447][661]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:455][662]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:464][663]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:474][664]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:483][665]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:491][666]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:500][667]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:510][668]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:520][669]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:529][670]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:538][671]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:548][672]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:556][673]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:566][674]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:576][675]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:585][676]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:594][677]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:602][678]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:612][679]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:621][680]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:630][681]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:639][682]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:648][683]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:657][684]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:665][685]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:675][686]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:684][687]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:693][688]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:702][689]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:712][690]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:720][691]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:730][692]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:738][693]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:747][694]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:757][695]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:766][696]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:775][697]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:784][698]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:794][699]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:802][700]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:812][701]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:819][702]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:829][703]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:838][704]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:846][705]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:855][706]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:865][707]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:873][708]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:883][709]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:892][710]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:901][711]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:911][712]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:920][713]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:930][714]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:940][715]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:949][716]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:958][717]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:968][718]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:978][719]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:987][720]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.47:998][721]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:008][722]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:018][723]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:027][724]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:036][725]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:046][726]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:054][727]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:064][728]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:073][729]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:082][730]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:091][731]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:101][732]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:111][733]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:120][734]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:128][735]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:137][736]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:147][737]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:156][738]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:165][739]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:174][740]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:183][741]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:193][742]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:202][743]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:212][744]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:220][745]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:229][746]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:238][747]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:248][748]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:257][749]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:265][750]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:275][751]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:284][752]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:294][753]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:302][754]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:312][755]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:320][756]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:329][757]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:338][758]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:347][759]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:355][760]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:364][761]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:374][762]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:383][763]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:393][764]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:401][765]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:411][766]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:419][767]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:428][768]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:436][769]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:447][770]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:455][771]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:464][772]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:473][773]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:482][774]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:492][775]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:501][776]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:510][777]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:518][778]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:527][779]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:536][780]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:547][781]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:555][782]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:565][783]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:573][784]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:582][785]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:591][786]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:600][787]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:610][788]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:619][789]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:629][790]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:638][791]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:647][792]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:655][793]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:664][794]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:673][795]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:682][796]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:692][797]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:701][798]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:710][799]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:719][800]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:729][801]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:738][802]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:748][803]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:756][804]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:766][805]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:775][806]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:785][807]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:794][808]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:802][809]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:812][810]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:820][811]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:830][812]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:839][813]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:848][814]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:858][815]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:867][816]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:876][817]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:885][818]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:895][819]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:902][820]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:912][821]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:920][822]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:929][823]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:939][824]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:947][825]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:957][826]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:966][827]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:975][828]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:984][829]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.48:994][830]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:002][831]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:012][832]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:020][833]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:029][834]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:039][835]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:051][836]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:061][837]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:071][838]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:079][839]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:090][840]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:099][841]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:109][842]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:118][843]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:128][844]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:137][845]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:146][846]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:155][847]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:165][848]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:174][849]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:183][850]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:194][851]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:202][852]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:212][853]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:220][854]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:229][855]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:238][856]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:248][857]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:257][858]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:267][859]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:275][860]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:284][861]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:294][862]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:302][863]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:311][864]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:320][865]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:329][866]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:338][867]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:348][868]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:357][869]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:365][870]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:375][871]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:386][872]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:395][873]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.49:403][874]LogStreaming: Warning: Failed to read file 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/SaveGames/HighsCoreData.sav' error.
+[2024.12.15-10.23.58:457][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.23.58:457][802]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.23.58:458][802]LogSlate: Window 'EndlessRunner2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.12.15-10.23.58:467][802]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.23.58:468][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.23.58:477][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-10.23.58:483][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.23.58:518][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-10.23.58:518][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.23.58:519][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.23.58:527][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.12.15-10.23.58:543][803]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.12.15-10.24.01:400][114]LogTemp: Repeating last play command: Selected Viewport
+[2024.12.15-10.24.01:409][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-10.24.01:409][114]PIE: New page: PIE session: TheMainGameMap (15 дек. 2024 г., 16:24:01)
+[2024.12.15-10.24.01:409][114]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.24.01:411][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2024.12.15-10.24.01:412][114]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.24.01:413][114]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2024.12.15-10.24.01:413][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003958s)
+[2024.12.15-10.24.01:449][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.12.15-10.24.01:449][114]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.15-10.24.01:450][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-10.24.01:450][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-10.24.01:450][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-10.24.01:450][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-10.24.01:450][114]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.15-10.24.01:454][114]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.15-10.24.01:454][114]LogAudioMixer: Display: 1: FrontRight
+[2024.12.15-10.24.01:459][114]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.12.15-10.24.01:460][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-10.24.01:460][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-10.24.01:460][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-10.24.01:460][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.15-10.24.01:460][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.15-10.24.01:460][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.15-10.24.01:461][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.15-10.24.01:461][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.15-10.24.01:461][114]LogInit: FAudioDevice initialized.
+[2024.12.15-10.24.01:461][114]LogAudio: Display: Audio Device (ID: 6) registered with world 'TheMainGameMap'.
+[2024.12.15-10.24.01:470][114]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.24.01:471][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.24.01
+[2024.12.15-10.24.01:471][114]LogWorld: Bringing up level for play took: 0.000495
+[2024.12.15-10.24.01:471][114]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2024.12.15-10.24.01:477][114]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.15-10.24.01:478][114]PIE: Server logged in
+[2024.12.15-10.24.01:479][114]PIE: Play in editor total start time 0,071 seconds.
+[2024.12.15-10.24.16:655][915]Cmd: restartlevel
+[2024.12.15-10.24.16:663][916]LogNet: Browse: /Game/ThirdPersonBP/Maps/TheMainGameMap?restart
+[2024.12.15-10.24.16:663][916]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TheMainGameMap
+[2024.12.15-10.24.16:663][916]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.24.16:663][916]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.24.16:664][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.24.16:730][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-10.24.16:734][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.12.15-10.24.16:736][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.24.16:738][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001949s)
+[2024.12.15-10.24.16:739][916]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.24.16:740][916]LogPlayLevel: PIE: World Init took: (0.001996s)
+[2024.12.15-10.24.16:740][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004191s)
+[2024.12.15-10.24.16:740][916]LogAudio: Display: Audio Device (ID: 6) registered with world 'TheMainGameMap'.
+[2024.12.15-10.24.16:740][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.24.16:743][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.24.16
+[2024.12.15-10.24.16:743][916]LogWorld: Bringing up level for play took: 0.001792
+[2024.12.15-10.24.16:748][916]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.15-10.24.16:748][916]LogLoad: Took 0.085764 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap)
+[2024.12.15-10.24.38:798][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.24.38:798][522]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.24.38:798][522]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.24.38:799][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.24.38:808][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-10.24.38:813][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.24.38:851][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.24.38:851][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.24.38:852][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.24.38:860][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.12.15-10.24.38:883][523]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.15-10.24.47:592][500]BlueprintLog: New page: Compile GameOver_Widget
+[2024.12.15-10.24.47:640][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.12.15-10.24.48:785][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.12.15-10.24.48:816][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameOverObjects/GameOver_Widget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/GameOverObjects/GameOver_Widget.uasset" SILENT=true
+[2024.12.15-10.24.48:837][617]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/GameOver_Widget439B43A84354CBE890CFE6B80EE5F2DE.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/GameOverObjects/GameOver_Widget.uasset'
+[2024.12.15-10.24.48:854][617]AssetCheck: New page: Asset Save: GameOver_Widget
+[2024.12.15-10.24.48:854][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameOverObjects/GameOver_Widget.GameOver_Widget
+[2024.12.15-10.24.50:231][762]LogTemp: Repeating last play command: Selected Viewport
+[2024.12.15-10.24.50:238][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-10.24.50:238][762]PIE: New page: PIE session: TheMainGameMap (15 дек. 2024 г., 16:24:50)
+[2024.12.15-10.24.50:239][762]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.24.50:241][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002291s)
+[2024.12.15-10.24.50:242][762]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.24.50:243][762]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2024.12.15-10.24.50:243][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004349s)
+[2024.12.15-10.24.50:280][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.12.15-10.24.50:280][762]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.15-10.24.50:281][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-10.24.50:281][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-10.24.50:281][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-10.24.50:281][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-10.24.50:281][762]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.15-10.24.50:285][762]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.15-10.24.50:285][762]LogAudioMixer: Display: 1: FrontRight
+[2024.12.15-10.24.50:290][762]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.12.15-10.24.50:291][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-10.24.50:291][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-10.24.50:291][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-10.24.50:291][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.15-10.24.50:291][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.15-10.24.50:291][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.15-10.24.50:292][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.15-10.24.50:293][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.15-10.24.50:293][762]LogInit: FAudioDevice initialized.
+[2024.12.15-10.24.50:293][762]LogAudio: Display: Audio Device (ID: 7) registered with world 'TheMainGameMap'.
+[2024.12.15-10.24.50:303][762]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.24.50:305][762]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.24.50
+[2024.12.15-10.24.50:305][762]LogWorld: Bringing up level for play took: 0.000485
+[2024.12.15-10.24.50:305][762]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.12.15-10.24.50:311][762]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.15-10.24.50:312][762]PIE: Server logged in
+[2024.12.15-10.24.50:312][762]PIE: Play in editor total start time 0,075 seconds.
+[2024.12.15-10.25.00:935][ 22]Cmd: restartlevel
+[2024.12.15-10.25.00:943][ 23]LogNet: Browse: /Game/ThirdPersonBP/Maps/TheMainGameMap?restart
+[2024.12.15-10.25.00:943][ 23]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TheMainGameMap
+[2024.12.15-10.25.00:943][ 23]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.25.00:943][ 23]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.25.00:944][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.25.01:010][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-10.25.01:015][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.12.15-10.25.01:016][ 23]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.25.01:018][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001818s)
+[2024.12.15-10.25.01:020][ 23]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.25.01:020][ 23]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2024.12.15-10.25.01:020][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.003744s)
+[2024.12.15-10.25.01:020][ 23]LogAudio: Display: Audio Device (ID: 7) registered with world 'TheMainGameMap'.
+[2024.12.15-10.25.01:020][ 23]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.25.01:023][ 23]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.25.01
+[2024.12.15-10.25.01:023][ 23]LogWorld: Bringing up level for play took: 0.001021
+[2024.12.15-10.25.01:030][ 23]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.15-10.25.01:030][ 23]LogLoad: Took 0.087291 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap)
+[2024.12.15-10.25.29:273][378]Cmd: restartlevel
+[2024.12.15-10.25.29:281][379]LogNet: Browse: /Game/ThirdPersonBP/Maps/TheMainGameMap?restart
+[2024.12.15-10.25.29:281][379]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TheMainGameMap
+[2024.12.15-10.25.29:281][379]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.25.29:281][379]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.25.29:282][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.25.29:341][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-10.25.29:346][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.12.15-10.25.29:347][379]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.25.29:349][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001916s)
+[2024.12.15-10.25.29:351][379]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.15-10.25.29:352][379]LogPlayLevel: PIE: World Init took: (0.002071s)
+[2024.12.15-10.25.29:352][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.004169s)
+[2024.12.15-10.25.29:352][379]LogAudio: Display: Audio Device (ID: 7) registered with world 'TheMainGameMap'.
+[2024.12.15-10.25.29:352][379]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.15-10.25.29:353][379]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.15-13.25.29
+[2024.12.15-10.25.29:353][379]LogWorld: Bringing up level for play took: 0.000337
+[2024.12.15-10.25.29:358][379]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.15-10.25.29:358][379]LogLoad: Took 0.077738 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap)
+[2024.12.15-10.25.30:657][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.25.30:657][526]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.15-10.25.30:657][526]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-10.25.30:658][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.25.30:668][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-10.25.30:672][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-10.25.30:706][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-10.25.30:706][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.25.30:707][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.15-10.25.30:710][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-10.25.30:714][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.12.15-10.25.30:734][527]LogPlayLevel: Display: Destroying online subsystem :Context_16
