@@ -1679,3 +1679,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.16-17.46.17:794][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.12.16-17.46.17:803][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
 [2024.12.16-17.46.17:829][674]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.12.16-17.46.44:545][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.46.44:545][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.41:907][570]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.41:908][570]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.45:319][952]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.45:319][952]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.45:826][  7]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.48.45:826][  7]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.49.24:880][287]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.49.24:880][287]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.49.32:568][143]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.49.32:568][143]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.51.47:537][192]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.51.47:537][192]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.51.48:151][261]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.51.48:152][261]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.52.09:959][649]BlueprintLog: New page: Compile PointsWidget
+[2024.12.16-17.52.10:013][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.12.16-17.52.10:571][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.52.10:609][689]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidgetCBBA4B38445A2B09A130D0820547DD86.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.52.10:631][689]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.52.10:631][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.52.32:979][ 36]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.52.32:979][ 36]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.53.06:835][788]BlueprintLog: New page: Compile PointsWidget
+[2024.12.16-17.53.06:903][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.12.16-17.53.07:554][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.53.07:592][843]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget07FFD0AA48E825C71FE361A176A8149D.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.53.07:610][843]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.53.07:610][843]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.53.14:720][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.53.14:759][630]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidget20FA3E9F42B8C6A336E440B2519E4328.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.53.14:776][630]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.53.14:776][630]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.54.31:696][624]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.16-17.54.33:364][776]BlueprintLog: New page: Compile PointsWidget
+[2024.12.16-17.54.33:440][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2024.12.16-17.54.33:950][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.54.33:989][808]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidgetEBCBFED34B3272471D71FF93BBFC2253.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.54.34:009][808]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.54.34:009][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.54.56:076][100]LogEditorTransaction: Undo Move Widget
+[2024.12.16-17.54.56:781][135]LogEditorTransaction: Undo Move Widget
+[2024.12.16-17.55.36:099][431]BlueprintLog: New page: Compile PointsWidget
+[2024.12.16-17.55.36:169][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2024.12.16-17.55.36:639][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.55.36:677][460]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidgetB2EE8E634A81E07B3AED159C0EB07124.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.55.36:695][460]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.55.36:695][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.55.56:253][602]BlueprintLog: New page: Compile PointsWidget
+[2024.12.16-17.55.56:321][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.12.16-17.55.56:770][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PointsWidget" FILE="C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset" SILENT=true
+[2024.12.16-17.55.56:807][645]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/PointsWidgetCC35A05C4B610A8EDDA8F6951A1A6499.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/Widgets/PointsWidget.uasset'
+[2024.12.16-17.55.56:826][645]AssetCheck: New page: Asset Save: PointsWidget
+[2024.12.16-17.55.56:826][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/PointsWidget.PointsWidget
+[2024.12.16-17.56.18:866][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.12.16-17.56.48:574][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.12.16-17.57.52:326][545]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.57.52:327][545]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.57.56:011][977]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.57.56:011][977]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.58.02:578][755]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.58.02:579][755]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.58.04:967][ 35]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.58.04:967][ 35]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-17.58.18:483][550]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.12.16-17.58.18:562][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2024.12.16-17.58.19:125][590]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Saved/ThirdPersonCharacter6793BD1B492CAE28D5FAEBBA0BA9F97A.tmp' to 'C:/Users/letsg/Documents/GitHub/EndlessRunner2/EndlessRunner2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.12.16-17.58.19:146][590]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.12.16-17.58.19:146][590]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.12.16-18.03.53:546][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.12.16-18.03.56:152][267]LogTemp: Repeating last play command: Selected Viewport
+[2024.12.16-18.03.56:162][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-18.03.56:162][267]PIE: New page: PIE session: TheMainGameMap (17 дек. 2024 г., 00:03:56)
+[2024.12.16-18.03.56:162][267]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.16-18.03.56:166][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003644s)
+[2024.12.16-18.03.56:168][267]LogAIModule: Creating AISystem for world TheMainGameMap
+[2024.12.16-18.03.56:168][267]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2024.12.16-18.03.56:168][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheMainGameMap.TheMainGameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap (0.005964s)
+[2024.12.16-18.03.56:214][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.12.16-18.03.56:215][267]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-18.03.56:215][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.16-18.03.56:215][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-18.03.56:216][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-18.03.56:216][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-18.03.56:216][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-18.03.56:216][267]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.16-18.03.56:221][267]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.16-18.03.56:221][267]LogAudioMixer: Display: 1: FrontRight
+[2024.12.16-18.03.56:229][267]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2024.12.16-18.03.56:230][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-18.03.56:230][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-18.03.56:230][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-18.03.56:230][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.16-18.03.56:230][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.16-18.03.56:230][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.16-18.03.56:232][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.16-18.03.56:232][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.16-18.03.56:232][267]LogInit: FAudioDevice initialized.
+[2024.12.16-18.03.56:232][267]LogAudio: Display: Audio Device (ID: 12) registered with world 'TheMainGameMap'.
+[2024.12.16-18.03.56:239][267]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.12.16-18.03.56:241][267]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap.TheMainGameMap up for play (max tick rate 0) at 2024.12.16-21.03.56
+[2024.12.16-18.03.56:241][267]LogWorld: Bringing up level for play took: 0.000643
+[2024.12.16-18.03.56:241][267]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.12.16-18.03.56:250][267]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2024.12.16-18.03.56:250][267]PIE: Server logged in
+[2024.12.16-18.03.56:251][267]PIE: Play in editor total start time 0,091 seconds.
+[2024.12.16-18.04.25:010][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.04.25:010][836]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheMainGameMap
+[2024.12.16-18.04.25:010][836]LogWorld: UWorld::CleanupWorld for TheMainGameMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-18.04.25:011][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.04.25:021][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-18.04.25:026][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-18.04.25:058][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-18.04.25:058][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-18.04.25:060][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-18.04.25:069][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.12.16-18.04.25:089][837]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.12.16-18.05.58:181][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
